@@ -1,0 +1,1954 @@
+[
+  {
+    "question": "What is a balanced diet?",
+    "answer": "A balanced diet includes a variety of foods from all food groups: fruits, vegetables, whole grains, lean proteins, and healthy fats. It provides all essential nutrients your body needs."
+  },
+  {
+    "question": "How many calories should I eat per day?",
+    "answer": "The average adult needs about 2000 calories per day. However, this varies based on age, gender, weight, height, and activity level. Men typically need 2000-2500 and women 1600-2000 calories."
+  },
+  {
+    "question": "What should I eat for breakfast?",
+    "answer": "A healthy breakfast should include protein, complex carbohydrates, and healthy fats. Good options include oatmeal with fruits, eggs with whole grain toast, or Greek yogurt with berries."
+  },
+  {
+    "question": "What foods are high in protein?",
+    "answer": "High protein foods include chicken breast, fish, eggs, Greek yogurt, lentils, chickpeas, tofu, cottage cheese, and lean beef. Aim for 0.8g of protein per kg of body weight daily."
+  },
+  {
+    "question": "How much water should I drink daily?",
+    "answer": "You should drink about 8 glasses (2 liters) of water per day. However, this can vary based on your activity level, climate, and body size. A good rule is to drink when thirsty and ensure your urine is light yellow."
+  },
+  {
+    "question": "What are healthy snacks?",
+    "answer": "Healthy snacks include fresh fruits, raw vegetables with hummus, a handful of nuts, Greek yogurt, hard-boiled eggs, whole grain crackers with cheese, or a small smoothie."
+  },
+  {
+    "question": "What foods should I avoid for weight loss?",
+    "answer": "For weight loss, avoid sugary drinks, processed foods, fast food, white bread, candy, chips, and excessive alcohol. These are high in calories and low in nutrients."
+  },
+  {
+    "question": "What is the difference between good and bad carbs?",
+    "answer": "Good carbs (complex) are found in whole grains, vegetables, and legumes. They digest slowly and provide steady energy. Bad carbs (simple) are found in sugar, white bread, and processed foods. They cause blood sugar spikes."
+  },
+  {
+    "question": "How can I lose weight safely?",
+    "answer": "To lose weight safely, create a moderate calorie deficit (500 calories/day), eat whole foods, exercise regularly, drink plenty of water, get enough sleep, and avoid crash diets. Aim for 0.5-1 kg loss per week."
+  },
+  {
+    "question": "What are healthy fats?",
+    "answer": "Healthy fats include avocados, olive oil, nuts, seeds, and fatty fish like salmon. They support brain health, hormone production, and nutrient absorption. Avoid trans fats and limit saturated fats."
+  },
+  {
+    "question": "How many meals should I eat per day?",
+    "answer": "Most nutritionists recommend 3 main meals and 1-2 healthy snacks per day. However, the total daily calories matter more than meal frequency. Eat when hungry and stop when satisfied."
+  },
+  {
+    "question": "What foods boost metabolism?",
+    "answer": "Foods that boost metabolism include green tea, chili peppers, ginger, protein-rich foods, coffee, and whole grains. Regular exercise and staying hydrated also help keep metabolism high."
+  },
+  {
+    "question": "What is intermittent fasting?",
+    "answer": "Intermittent fasting is an eating pattern that cycles between fasting and eating periods. Common methods include 16:8 (fast 16 hours, eat in 8-hour window) or 5:2 (eat normally 5 days, restrict calories 2 days)."
+  },
+  {
+    "question": "What are the best foods for muscle building?",
+    "answer": "For muscle building, eat high protein foods like chicken, fish, eggs, Greek yogurt, and legumes. Combine with complex carbs for energy and healthy fats. Timing protein intake around workouts is also beneficial."
+  },
+  {
+    "question": "How can I reduce belly fat?",
+    "answer": "To reduce belly fat, reduce overall calorie intake, limit sugar and refined carbs, increase protein intake, do cardio and strength training, manage stress, and get enough sleep. Spot reduction is not possible."
+  },
+  {
+    "question": "What vitamins should I take daily?",
+    "answer": "Key daily vitamins include Vitamin D (especially if you have limited sun exposure), Vitamin B12 (especially for vegetarians), and folate. However, its best to get nutrients from food first and consult a doctor before supplementing."
+  },
+  {
+    "question": "What are superfoods?",
+    "answer": "Superfoods are nutrient-rich foods considered especially beneficial for health. Examples include blueberries, spinach, salmon, avocado, sweet potatoes, quinoa, chia seeds, and green tea."
+  },
+  {
+    "question": "Is skipping breakfast bad?",
+    "answer": "The importance of breakfast varies by person. Some people do well skipping it while others need it for energy and focus. What matters most is total daily nutrition. If you skip breakfast, ensure other meals are nutritious."
+  },
+  {
+    "question": "What foods are good for heart health?",
+    "answer": "Heart-healthy foods include fatty fish, whole grains, nuts, olive oil, berries, dark leafy greens, and legumes. Limit saturated fats, trans fats, sodium, and added sugars."
+  },
+  {
+    "question": "How much sugar should I eat per day?",
+    "answer": "The WHO recommends limiting added sugars to less than 10% of daily calories, ideally below 5%. For a 2000 calorie diet, that is about 50g (or less than 25g ideally) of added sugar per day."
+  },
+  {
+    "question": "What is a good diet for diabetics?",
+    "answer": "Diabetics should focus on low glycemic foods, control carbohydrate portions, eat regular meals, include plenty of non-starchy vegetables, lean proteins, and healthy fats. Avoid sugary drinks and processed foods."
+  },
+  {
+    "question": "What are the best foods for energy?",
+    "answer": "Best energy foods include oats, bananas, sweet potatoes, eggs, nuts, brown rice, and legumes. These provide sustained energy through complex carbs, protein, and healthy fats."
+  },
+  {
+    "question": "How can vegetarians get enough protein?",
+    "answer": "Vegetarians can get protein from lentils, chickpeas, black beans, tofu, tempeh, edamame, quinoa, Greek yogurt, eggs, cheese, and nuts. Combining different plant proteins ensures complete amino acid intake."
+  },
+  {
+    "question": "What foods are high in fiber?",
+    "answer": "High fiber foods include beans, lentils, whole grains, broccoli, avocados, berries, apples, pears, chia seeds, and flaxseeds. Aim for 25-35g of fiber per day for digestive health."
+  },
+  {
+    "question": "What is the Mediterranean diet?",
+    "answer": "The Mediterranean diet emphasizes fruits, vegetables, whole grains, legumes, fish, and olive oil. It limits red meat and processed foods. It is associated with reduced risk of heart disease, diabetes, and obesity."
+  },
+  {
+    "question": "How can I eat healthy on a budget?",
+    "answer": "Eat healthy on a budget by buying seasonal produce, cooking at home, buying frozen vegetables, choosing dried beans over canned, buying whole grains in bulk, and reducing meat consumption."
+  },
+  {
+    "question": "What foods help with sleep?",
+    "answer": "Foods that help sleep include cherries, kiwi, warm milk, almonds, turkey, and chamomile tea. They contain melatonin, tryptophan, or magnesium which promote better sleep. Avoid caffeine and heavy meals before bed."
+  },
+  {
+    "question": "What is a detox diet?",
+    "answer": "Detox diets claim to eliminate toxins but have little scientific support. Your liver and kidneys naturally detox your body. A better approach is eating whole foods, drinking water, exercising, and avoiding alcohol and processed foods."
+  },
+  {
+    "question": "How many calories are in common foods?",
+    "answer": "Common calorie counts: apple 80, banana 90, egg 70, chicken breast 165, cup of rice 200, slice of bread 80, avocado 160, glass of milk 150. Always check labels for packaged foods."
+  },
+  {
+    "question": "What foods are anti-inflammatory?",
+    "answer": "Anti-inflammatory foods include berries, fatty fish, broccoli, avocados, green tea, peppers, mushrooms, grapes, turmeric, and olive oil. Avoid processed foods, sugar, and refined carbs which cause inflammation."
+  },
+  {
+    "question": "What should I eat before a workout?",
+    "answer": "Eat a meal with carbs and protein 2-3 hours before workout, such as oatmeal with banana or brown rice with chicken. For a quick snack 30-60 minutes before, try a banana or small smoothie."
+  },
+  {
+    "question": "What should I eat after a workout?",
+    "answer": "After a workout, eat protein and carbs within 30-60 minutes. Good options include a protein shake with banana, Greek yogurt with fruit, or chicken with rice. This helps muscle recovery and replenishes glycogen."
+  },
+  {
+    "question": "What is the keto diet?",
+    "answer": "The ketogenic (keto) diet is high fat, moderate protein, and very low carb (under 50g/day). It puts the body in ketosis where fat is burned for fuel. It can aid weight loss but may be hard to maintain long-term."
+  },
+  {
+    "question": "How can I stop sugar cravings?",
+    "answer": "To stop sugar cravings, eat regular meals to stabilize blood sugar, include protein and fat in meals, drink water when cravings hit, eat a small piece of dark chocolate, get enough sleep, and manage stress."
+  },
+  {
+    "question": "What foods are good for skin?",
+    "answer": "Skin-healthy foods include avocados, fatty fish, walnuts, sweet potatoes, sunflower seeds, red or yellow bell peppers, broccoli, tomatoes, and green tea. They provide vitamins C, E, and omega-3 fatty acids."
+  },
+  {
+    "question": "Is eating late at night bad?",
+    "answer": "Eating late is not inherently bad, but total daily calories matter most. However, late night eating can disrupt sleep and digestion. Avoid large heavy meals within 2-3 hours of bedtime."
+  },
+  {
+    "question": "What is portion control?",
+    "answer": "Portion control means eating the right amount of food. Use smaller plates, measure servings, eat slowly, and stop when 80% full. A palm-sized amount for protein, fist for carbs, and thumb for fats is a simple guide."
+  },
+  {
+    "question": "What are the best foods for brain health?",
+    "answer": "Brain-healthy foods include fatty fish, blueberries, turmeric, broccoli, pumpkin seeds, dark chocolate, nuts, and eggs. They provide omega-3, antioxidants, and vitamins essential for cognitive function."
+  },
+  {
+    "question": "How can I build healthy eating habits?",
+    "answer": "Build healthy habits by meal planning, cooking at home, eating mindfully, keeping healthy foods visible, reducing processed food at home, staying hydrated, and making gradual changes rather than drastic ones."
+  },
+  {
+    "question": "What is the glycemic index?",
+    "answer": "The glycemic index (GI) measures how quickly foods raise blood sugar. Low GI foods (under 55) like oats and legumes digest slowly. High GI foods like white bread cause rapid blood sugar spikes. Diabetics should focus on low GI foods."
+  },
+  {
+    "question": "What foods are high in calcium?",
+    "answer": "High calcium foods include dairy products, fortified plant milks, tofu, broccoli, kale, almonds, sardines, and chia seeds. Adults need about 1000mg of calcium per day for bone health."
+  },
+  {
+    "question": "How can I gain weight healthily?",
+    "answer": "To gain weight healthily, increase calorie intake with nutrient-dense foods like nuts, avocados, whole grains, and lean proteins. Do strength training to build muscle, eat more frequently, and add healthy calorie-dense smoothies."
+  },
+  {
+    "question": "What is mindful eating?",
+    "answer": "Mindful eating means paying full attention to the eating experience, eating slowly, savoring each bite, listening to hunger cues, and avoiding distractions. It helps prevent overeating and improves digestion."
+  },
+  {
+    "question": "What foods reduce cholesterol?",
+    "answer": "Foods that reduce cholesterol include oats, barley, beans, eggplant, nuts, vegetable oils, fatty fish, apples, grapes, and strawberries. They contain fiber and healthy fats that lower LDL cholesterol."
+  },
+  {
+    "question": "What is the DASH diet?",
+    "answer": "The DASH diet (Dietary Approaches to Stop Hypertension) focuses on fruits, vegetables, whole grains, lean proteins, and low-fat dairy. It limits sodium, red meat, and sweets. It is effective for lowering blood pressure."
+  },
+  {
+    "question": "How can I meal prep for the week?",
+    "answer": "For weekly meal prep, plan your meals, shop with a list, cook grains and proteins in bulk, chop vegetables in advance, portion meals into containers, and store properly. This saves time and helps you eat healthier."
+  },
+  {
+    "question": "What foods are good for digestion?",
+    "answer": "Good digestion foods include yogurt with probiotics, kefir, sauerkraut, kimchi, fiber-rich foods, ginger, peppermint, and plenty of water. Avoid processed foods, excessive fat, and alcohol."
+  },
+  {
+    "question": "What is a vegan diet?",
+    "answer": "A vegan diet excludes all animal products including meat, dairy, eggs, and honey. Vegans eat fruits, vegetables, grains, legumes, nuts, and seeds. They may need to supplement vitamin B12, D, calcium, and omega-3."
+  },
+  {
+    "question": "How much protein do I need daily?",
+    "answer": "The general recommendation is 0.8g protein per kg of body weight. Athletes may need 1.2-2.0g/kg. For a 70kg person, that is about 56-140g of protein per day depending on activity level."
+  },
+  {
+    "question": "What are the healthiest cooking oils?",
+    "answer": "Healthiest cooking oils include extra virgin olive oil for low-medium heat, avocado oil for high heat, and coconut oil in moderation. Avoid partially hydrogenated oils with trans fats."
+  },
+  {
+    "question": "What foods help lower blood pressure?",
+    "answer": "Foods that lower blood pressure include leafy greens, berries, beets, oats, bananas, garlic, olive oil, dark chocolate, and pomegranate. Reduce sodium intake and avoid processed foods."
+  },
+  {
+    "question": "Is coffee healthy?",
+    "answer": "Moderate coffee consumption (2-4 cups/day) is generally safe and may have health benefits like improved focus, reduced risk of type 2 diabetes, and liver protection. Avoid excessive sugar or cream additions."
+  },
+  {
+    "question": "What is gluten and who should avoid it?",
+    "answer": "Gluten is a protein in wheat, barley, and rye. People with celiac disease or gluten sensitivity must avoid it. For others, whole grain gluten-containing foods can be part of a healthy diet."
+  },
+  {
+    "question": "How can I read nutrition labels?",
+    "answer": "Check serving size first, then calories, saturated fat, sodium, and added sugars (keep these low), and fiber, protein, vitamins, and minerals (keep these high). The % daily value helps compare foods."
+  },
+  {
+    "question": "What foods are good for weight management?",
+    "answer": "Weight management foods include lean proteins, non-starchy vegetables, whole grains, legumes, and fruits. These are filling but relatively low in calories. Avoid calorie-dense processed foods."
+  },
+  {
+    "question": "What are probiotics and where are they found?",
+    "answer": "Probiotics are beneficial bacteria that support gut health. They are found in yogurt, kefir, sauerkraut, kimchi, miso, and kombucha. They help with digestion, immunity, and may improve mood."
+  },
+  {
+    "question": "How can I reduce salt intake?",
+    "answer": "Reduce salt by cooking at home, using herbs and spices for flavor, choosing low-sodium canned goods, limiting processed and fast foods, and reading labels. Gradually reduce salt to adjust your taste preferences."
+  },
+  {
+    "question": "What foods are good for iron deficiency?",
+    "answer": "High iron foods include red meat, spinach, lentils, tofu, pumpkin seeds, quinoa, and fortified cereals. Eat vitamin C with iron-rich foods to boost absorption. Avoid coffee or tea with meals as they inhibit absorption."
+  },
+  {
+    "question": "What is a low carb diet?",
+    "answer": "A low carb diet restricts carbohydrates to 50-150g per day and focuses on protein and fat. It can aid weight loss and blood sugar control. Focus on vegetables, lean proteins, healthy fats, and limit grains and sugar."
+  },
+  {
+    "question": "How can I maintain a healthy weight?",
+    "answer": "Maintain healthy weight by eating balanced nutritious meals, controlling portions, staying physically active, getting enough sleep, managing stress, drinking water instead of sugary drinks, and avoiding fad diets."
+  },
+  {
+    "question": "What are omega-3 fatty acids?",
+    "answer": "Omega-3 fatty acids are essential fats found in fatty fish, walnuts, flaxseeds, and chia seeds. They support heart health, brain function, and reduce inflammation. Aim for 2 servings of fatty fish per week."
+  },
+  {
+    "question": "What foods cause bloating?",
+    "answer": "Common bloating foods include beans, lentils, broccoli, cabbage, onions, carbonated drinks, dairy, and wheat. Eat slowly, chew well, avoid drinking with straws, and try eliminating suspected foods to identify triggers."
+  },
+  {
+    "question": "Is eating eggs every day healthy?",
+    "answer": "For most healthy people, eating one egg per day is fine. Eggs are nutritious, providing protein, healthy fats, and vitamins. However, people with heart disease or high cholesterol should discuss egg consumption with their doctor."
+  },
+  {
+    "question": "What is food combining?",
+    "answer": "Food combining claims that eating certain foods together aids digestion and weight loss. However, there is little scientific evidence to support this. Focus on overall diet quality rather than specific food combinations."
+  },
+  {
+    "question": "What foods help with anxiety?",
+    "answer": "Foods that may help with anxiety include fatty fish, pumpkin seeds, dark chocolate, turmeric, chamomile, yogurt, green tea, and magnesium-rich foods. Reduce caffeine, alcohol, and processed foods."
+  },
+  {
+    "question": "How can I eat more vegetables?",
+    "answer": "Eat more vegetables by adding spinach to smoothies, using lettuce wraps, adding veggies to eggs, making soups and stews, trying veggie-based pastas, snacking on raw vegetables with dips, and experimenting with new recipes."
+  },
+  {
+    "question": "What is a calorie deficit?",
+    "answer": "A calorie deficit means consuming fewer calories than you burn. A deficit of 500 calories per day leads to approximately 0.5kg weight loss per week. Never go below 1200 calories for women or 1500 for men without medical supervision."
+  },
+  {
+    "question": "What foods are natural energy boosters?",
+    "answer": "Natural energy boosters include bananas, oats, dark chocolate, nuts, eggs, sweet potatoes, apples, and water. Avoid relying on caffeine and sugar for energy as they cause crashes."
+  },
+  {
+    "question": "What is intuitive eating?",
+    "answer": "Intuitive eating is an approach that encourages listening to your body, eating when hungry, stopping when full, and rejecting diet culture. It focuses on a healthy relationship with food rather than restriction."
+  },
+  {
+    "question": "What foods strengthen the immune system?",
+    "answer": "Immune-boosting foods include citrus fruits, red bell peppers, broccoli, garlic, ginger, spinach, yogurt, almonds, turmeric, and green tea. They are rich in vitamins C, E, and antioxidants."
+  },
+  {
+    "question": "How does alcohol affect diet?",
+    "answer": "Alcohol adds empty calories, disrupts sleep, reduces metabolism, increases appetite, and impairs nutrient absorption. Limit to 1 drink per day for women and 2 for men, or avoid entirely for best health."
+  },
+  {
+    "question": "What is the difference between hunger and cravings?",
+    "answer": "True hunger develops gradually, any food sounds good, and is felt physically. Cravings come suddenly, are specific to certain foods, and are often triggered by emotions. Drink water and wait 15 minutes to determine if its real hunger."
+  },
+  {
+    "question": "What foods help reduce stress?",
+    "answer": "Stress-reducing foods include dark chocolate, avocados, blueberries, almonds, oats, oranges, and herbal teas. Avoid excessive caffeine, sugar, and alcohol during stressful times."
+  },
+  {
+    "question": "How should I eat if I have high cholesterol?",
+    "answer": "For high cholesterol, eat more fiber from oats, beans, and vegetables, increase omega-3 rich foods, use olive oil, eat nuts, and choose lean proteins. Avoid saturated fats, trans fats, and processed foods."
+  },
+  {
+    "question": "What are empty calories?",
+    "answer": "Empty calories come from foods that provide energy but little nutritional value, such as sugary drinks, candy, chips, white bread, and alcohol. Replace these with nutrient-dense whole foods."
+  },
+  {
+    "question": "How can I control emotional eating?",
+    "answer": "To control emotional eating, identify triggers, find alternative coping mechanisms, keep a food journal, remove trigger foods from home, eat regularly to prevent blood sugar drops, and consider speaking with a therapist."
+  },
+  {
+    "question": "What is the best diet for athletes?",
+    "answer": "Athletes need more calories, especially from carbohydrates for energy, protein for muscle repair, and healthy fats. Timing meals around training is important. Stay well hydrated and consider sports nutrition guidance for intense training."
+  },
+  {
+    "question": "How can I reduce food cravings?",
+    "answer": "Reduce cravings by eating balanced regular meals, staying hydrated, getting enough sleep, managing stress, avoiding skipping meals, including protein and fat in every meal, and identifying emotional triggers."
+  },
+  {
+    "question": "What foods are good for bones?",
+    "answer": "Bone-healthy foods include dairy products, fortified plant milks, leafy greens, sardines, salmon, tofu, and calcium-fortified foods. Vitamin D is also essential for calcium absorption. Weight-bearing exercise helps too."
+  },
+  {
+    "question": "What is the best diet for longevity?",
+    "answer": "Diets associated with longevity include the Mediterranean diet, traditional Japanese diet, and plant-based diets. They emphasize whole foods, plants, legumes, moderate fish, and low processed food intake."
+  },
+  {
+    "question": "Should I count calories?",
+    "answer": "Calorie counting can be helpful for weight management but is not necessary for everyone. Focus on food quality, portion sizes, and eating whole foods. If you choose to count, use an app but avoid becoming obsessive."
+  },
+  {
+    "question": "What foods help with constipation?",
+    "answer": "Foods that relieve constipation include prunes, pears, apples, kiwi, spinach, beans, lentils, oats, and flaxseeds. Drink plenty of water and exercise regularly. Increase fiber gradually to avoid bloating."
+  },
+  {
+    "question": "What is a plant-based diet?",
+    "answer": "A plant-based diet focuses primarily on whole plant foods like fruits, vegetables, grains, legumes, nuts, and seeds. It can include small amounts of animal products. It is associated with reduced risk of chronic diseases."
+  },
+  {
+    "question": "How can I eat healthy when eating out?",
+    "answer": "When eating out, choose grilled over fried, ask for sauces on the side, start with salad, choose smaller portions, avoid sugary drinks, skip dessert or share it, and check nutrition information when available."
+  },
+  {
+    "question": "What foods are high in antioxidants?",
+    "answer": "High antioxidant foods include dark berries, dark chocolate, pecans, artichokes, goji berries, kidney beans, cranberries, and leafy greens. Antioxidants protect cells from damage and reduce inflammation."
+  },
+  {
+    "question": "What is meal timing?",
+    "answer": "Meal timing refers to when you eat throughout the day. While total daily nutrition matters most, eating breakfast, having a moderate lunch, and lighter dinner may support energy levels and metabolism for some people."
+  },
+  {
+    "question": "What foods help prevent cancer?",
+    "answer": "A diet rich in vegetables, fruits, whole grains, and legumes may reduce cancer risk. Cruciferous vegetables, berries, garlic, and tomatoes contain protective compounds. Limit processed meats, alcohol, and red meat."
+  },
+  {
+    "question": "How can I improve my gut health?",
+    "answer": "Improve gut health by eating diverse whole foods, increasing fiber intake, eating fermented foods, staying hydrated, reducing processed foods, managing stress, getting enough sleep, and taking probiotics if needed."
+  },
+  {
+    "question": "What foods are good for thyroid health?",
+    "answer": "Thyroid-friendly foods include iodine-rich foods like seaweed and dairy, selenium from Brazil nuts and fish, zinc from meat and seeds, and iron from leafy greens. Avoid excessive soy and raw cruciferous vegetables if you have thyroid issues."
+  },
+  {
+    "question": "What is the best way to lose weight fast?",
+    "answer": "The safest way to lose weight is gradually at 0.5-1kg per week through a moderate calorie deficit, balanced nutrition, and regular exercise. Crash diets are unsustainable and can be harmful. Consistency is key."
+  },
+  {
+    "question": "How does sleep affect diet?",
+    "answer": "Poor sleep increases hunger hormones, cravings for high-calorie foods, and reduces willpower. Aim for 7-9 hours of sleep. Good sleep supports weight management, metabolism, and overall health."
+  },
+  {
+    "question": "What foods help with joint pain?",
+    "answer": "Foods that help joint pain include fatty fish, turmeric, ginger, berries, olive oil, leafy greens, and nuts. Avoid processed foods, refined sugar, and red meat which can increase inflammation."
+  },
+  {
+    "question": "What is food addiction?",
+    "answer": "Food addiction refers to compulsive eating of certain foods despite negative consequences. It often involves highly processed foods high in sugar, fat, and salt. Seek professional help if food consumption feels uncontrollable."
+  },
+  {
+    "question": "How can I increase my iron intake?",
+    "answer": "Increase iron by eating red meat, spinach, lentils, tofu, fortified cereals, and pumpkin seeds. Eat vitamin C alongside iron-rich foods to boost absorption. Avoid coffee and tea with meals as they reduce iron absorption."
+  },
+  {
+    "question": "What is the best diet for PCOS?",
+    "answer": "For PCOS, focus on low glycemic foods, lean proteins, healthy fats, and plenty of fiber. Reduce processed foods, sugar, and refined carbs. Regular small meals help stabilize blood sugar and manage insulin resistance."
+  },
+  {
+    "question": "What foods cause inflammation?",
+    "answer": "Inflammatory foods include sugar, refined carbs, fried foods, margarine, red meat, processed snacks, alcohol, and vegetable oils high in omega-6. Replace with anti-inflammatory whole foods."
+  },
+  {
+    "question": "How can I eat healthy during pregnancy?",
+    "answer": "During pregnancy, eat folate-rich foods, iron-rich foods, calcium, omega-3 fatty acids, and plenty of fruits and vegetables. Avoid raw fish, high-mercury fish, unpasteurized dairy, and alcohol. Take prenatal vitamins."
+  },
+  {
+    "question": "What is the best food to eat in the morning?",
+    "answer": "Good morning foods include eggs, oatmeal, Greek yogurt, berries, bananas, whole grain toast, nuts, and chia seeds. They provide protein, fiber, and nutrients to fuel your day."
+  },
+  {
+    "question": "How can I eat healthy at work?",
+    "answer": "Eat healthy at work by packing your lunch, keeping healthy snacks at your desk, choosing wisely from the cafeteria, staying hydrated, taking regular breaks to eat without distraction, and planning your meals."
+  },
+  {
+    "question": "What foods are good for weight loss?",
+    "answer": "Best weight loss foods include lean proteins like chicken and fish, fiber-rich vegetables, legumes, whole grains, and fruits. These keep you full longer. Avoid processed foods and sugary drinks."
+  },
+  {
+    "question": "What is the difference between a nutritionist and a dietitian?",
+    "answer": "A registered dietitian has specific education and clinical training and is licensed to provide medical nutrition therapy. A nutritionist title is less regulated. For medical conditions, consult a registered dietitian."
+  },
+  {
+    "question": "How does stress affect eating?",
+    "answer": "Stress can trigger emotional eating, cravings for comfort foods, overeating, or undereating. High cortisol levels from stress promote fat storage, especially around the abdomen. Manage stress through exercise, sleep, and relaxation."
+  },
+  {
+    "question": "What foods are high in magnesium?",
+    "answer": "High magnesium foods include dark chocolate, avocados, nuts, legumes, tofu, seeds, whole grains, fatty fish, bananas, and leafy greens. Magnesium supports muscle function, sleep, and energy production."
+  },
+  {
+    "question": "What is a food allergy vs food intolerance?",
+    "answer": "A food allergy involves an immune response and can be life-threatening. Common allergens include nuts, shellfish, dairy, and eggs. Food intolerance causes digestive discomfort but is not life-threatening, like lactose intolerance."
+  },
+  {
+    "question": "How can I reduce processed food intake?",
+    "answer": "Reduce processed food by cooking more at home, reading labels, shopping the perimeter of the grocery store, meal prepping, keeping whole food snacks available, and gradually replacing processed foods with whole alternatives."
+  },
+  {
+    "question": "What are the benefits of eating fish?",
+    "answer": "Fish provides high quality protein, omega-3 fatty acids, vitamin D, and B vitamins. Regular fish consumption is linked to reduced heart disease, better brain health, and reduced inflammation. Aim for 2 servings per week."
+  },
+  {
+    "question": "How can children eat healthier?",
+    "answer": "Help children eat healthier by involving them in meal planning and cooking, offering a variety of healthy foods, making meals colorful, limiting sugary drinks and snacks, modeling healthy eating, and not forcing them to eat."
+  },
+  {
+    "question": "What is the best diet for high blood pressure?",
+    "answer": "For high blood pressure, follow the DASH diet: eat fruits, vegetables, whole grains, lean protein, and low-fat dairy. Limit sodium to under 2300mg/day, avoid processed foods, alcohol, and caffeine."
+  },
+  {
+    "question": "How does fiber help the body?",
+    "answer": "Fiber supports digestive health, prevents constipation, lowers cholesterol, stabilizes blood sugar, and helps maintain a healthy weight by promoting fullness. Aim for 25-35g daily from whole grains, fruits, and vegetables."
+  },
+  {
+    "question": "What foods are good for liver health?",
+    "answer": "Liver-friendly foods include coffee, green tea, grapefruit, blueberries, grapes, prickly pear, oatmeal, nuts, and fatty fish. Avoid alcohol, high sugar foods, and processed foods which burden the liver."
+  },
+  {
+    "question": "How should elderly people eat?",
+    "answer": "Elderly people need more protein to prevent muscle loss, calcium and vitamin D for bones, B12, and fiber. They may need fewer total calories but nutrient density is crucial. Stay hydrated as thirst sensation decreases with age."
+  },
+  {
+    "question": "What foods should I eat when sick?",
+    "answer": "When sick, eat chicken soup, broth, ginger tea, honey, garlic, citrus fruits, bananas, oatmeal, and yogurt. Stay hydrated, eat easily digestible foods, and avoid heavy fatty or spicy meals."
+  },
+  {
+    "question": "What is a food diary and how does it help?",
+    "answer": "A food diary records everything you eat and drink. It increases awareness of eating habits, helps identify patterns, emotional triggers, and nutritional gaps. Apps like MyFitnessPal make tracking easy and convenient."
+  },
+  {
+    "question": "What foods are good for mental health?",
+    "answer": "Mental health supporting foods include fatty fish, dark leafy greens, nuts, seeds, legumes, whole grains, fermented foods, and dark chocolate. A Mediterranean-style diet is associated with reduced depression risk."
+  },
+  {
+    "question": "How can I eat healthy on a tight schedule?",
+    "answer": "Eat healthy with limited time by meal prepping on weekends, keeping simple ingredients at home, making batch recipes, using healthy convenience foods like canned beans and frozen vegetables, and planning quick meals."
+  },
+  {
+    "question": "What is the best post-workout meal?",
+    "answer": "A good post-workout meal includes protein for muscle repair and carbs to replenish energy. Examples are grilled chicken with sweet potato, tuna with rice, or a protein shake with banana and milk."
+  },
+  {
+    "question": "What are the signs of nutrient deficiency?",
+    "answer": "Signs of nutrient deficiency include fatigue, pale skin, brittle nails, hair loss, slow wound healing, muscle cramps, poor concentration, and frequent illness. See a doctor for blood tests if you suspect deficiency."
+  },
+  {
+    "question": "How does diet affect mood?",
+    "answer": "Diet significantly affects mood. A diet rich in whole foods supports neurotransmitter production and reduces inflammation. Ultra-processed foods and sugar can worsen mood and increase anxiety and depression risk."
+  },
+  {
+    "question": "What foods are good for recovery after illness?",
+    "answer": "Recovery foods include protein-rich foods for tissue repair, fruits and vegetables for vitamins, whole grains for energy, and probiotic foods for gut health. Stay hydrated and eat small frequent meals if appetite is low."
+  },
+  {
+    "question": "How can I reduce my risk of type 2 diabetes through diet?",
+    "answer": "Reduce diabetes risk by maintaining healthy weight, eating whole grains over refined carbs, increasing fiber intake, choosing healthy fats, limiting sugary drinks, eating plenty of vegetables, and staying physically active."
+  },
+  {
+    "question": "What is the difference between white and brown rice?",
+    "answer": "Brown rice is a whole grain with the bran and germ intact, providing more fiber, vitamins, and minerals. White rice is refined with the bran removed, resulting in fewer nutrients. Brown rice has a lower glycemic index."
+  },
+  {
+    "question": "What are artificial sweeteners and are they safe?",
+    "answer": "Artificial sweeteners like aspartame and stevia provide sweetness without calories. They are generally considered safe in moderate amounts by health authorities, but some people prefer to avoid them. Natural sweeteners include honey and maple syrup."
+  },
+  {
+    "question": "How can I make healthy food taste good?",
+    "answer": "Make healthy food tasty by using herbs and spices, roasting vegetables for flavor, adding healthy fats like olive oil, using citrus juice for brightness, trying new cuisines, and learning proper cooking techniques."
+  },
+  {
+    "question": "What is a macronutrient?",
+    "answer": "Macronutrients are the three main categories of nutrients: carbohydrates, proteins, and fats. Carbs provide 4 cal/g, protein 4 cal/g, and fat 9 cal/g. Each plays essential roles in body function."
+  },
+  {
+    "question": "What foods are good for kidney health?",
+    "answer": "Kidney-friendly foods include apples, blueberries, fish, egg whites, garlic, olive oil, and cabbage. Limit sodium, potassium, and phosphorus if you have kidney disease. Stay well hydrated with water."
+  },
+  {
+    "question": "How can I eat more whole grains?",
+    "answer": "Eat more whole grains by choosing whole wheat bread and pasta, eating oatmeal for breakfast, trying quinoa, brown rice, and farro, adding barley to soups, and swapping white flour with whole wheat flour in baking."
+  },
+  {
+    "question": "What is the role of vitamins in the body?",
+    "answer": "Vitamins support immune function, energy production, bone health, blood clotting, and many other vital processes. Fat-soluble vitamins (A, D, E, K) are stored in the body while water-soluble vitamins (B, C) need daily replenishment."
+  },
+  {
+    "question": "How does gut health affect overall health?",
+    "answer": "Gut health influences immunity, mental health, weight, and disease risk. A healthy gut microbiome supports digestion, produces vitamins, and protects against harmful bacteria. Eat diverse whole foods and fermented foods."
+  },
+  {
+    "question": "What is the best diet for teenagers?",
+    "answer": "Teenagers need calcium for bone growth, iron for blood production, protein for muscle development, and plenty of fruits and vegetables. Avoid excessive junk food, energy drinks, and skipping meals. Focus on nutrient-dense whole foods."
+  },
+  {
+    "question": "How can I prepare healthy meals quickly?",
+    "answer": "Prepare healthy meals quickly by keeping prepped ingredients ready, using simple recipes, batch cooking proteins and grains, using a slow cooker or instant pot, stocking frozen vegetables, and mastering a few quick go-to meals."
+  },
+  {
+    "question": "What foods should I eat less of?",
+    "answer": "Eat less of processed meats, sugary drinks, white bread and pasta, fried foods, candy and sweets, packaged snacks, margarine, and alcohol. Replace these with whole food alternatives."
+  },
+  {
+    "question": "What is mindful eating and how do I practice it?",
+    "answer": "Practice mindful eating by eating without screens, chewing slowly and thoroughly, paying attention to flavors and textures, eating when hungry not bored, pausing halfway through meals, and appreciating your food."
+  },
+  {
+    "question": "What are the best foods for runners?",
+    "answer": "Runners need carbohydrates for fuel, protein for recovery, and electrolytes for hydration. Good foods include pasta, oats, bananas, sweet potatoes, chicken, eggs, and sports drinks for long runs. Eat carbs before and protein after."
+  },
+  {
+    "question": "How can I reduce my risk of osteoporosis?",
+    "answer": "Reduce osteoporosis risk by eating calcium and vitamin D rich foods, doing weight-bearing exercise, avoiding smoking and excessive alcohol, maintaining healthy weight, and getting enough protein throughout life."
+  },
+  {
+    "question": "What is a healthy BMI?",
+    "answer": "A healthy BMI (Body Mass Index) is between 18.5 and 24.9. BMI is calculated by dividing weight in kg by height in meters squared. However, BMI does not account for muscle mass or distribution of fat."
+  },
+  {
+    "question": "What should I eat for dinner?",
+    "answer": "A healthy dinner includes a lean protein, plenty of non-starchy vegetables, and a moderate serving of complex carbohydrates. Keep dinner lighter than lunch and avoid heavy meals close to bedtime."
+  },
+  {
+    "question": "How do I know if I am eating enough?",
+    "answer": "You are eating enough if you have consistent energy, stable mood, regular bowel movements, healthy hair and nails, good concentration, and your weight remains stable. Consult a dietitian if you are unsure."
+  },
+  {
+    "question": "What foods are good for reducing fatigue?",
+    "answer": "Fatigue-fighting foods include iron-rich foods, complex carbohydrates, lean proteins, magnesium-rich foods, vitamin B12 sources, and staying hydrated. Avoid excessive caffeine, sugar, and alcohol which worsen fatigue long-term."
+  },
+  {
+    "question": "What is the difference between soluble and insoluble fiber?",
+    "answer": "Soluble fiber dissolves in water and helps lower cholesterol and stabilize blood sugar. Found in oats, beans, and apples. Insoluble fiber adds bulk to stool and prevents constipation. Found in whole grains and vegetables."
+  },
+  {
+    "question": "How can I eat healthier at home?",
+    "answer": "Eat healthier at home by stocking healthy staples, reducing junk food in the house, cooking more meals, planning your week ahead, trying new healthy recipes, and making gradual swaps like whole grain bread instead of white."
+  },
+  {
+    "question": "What foods are highest in vitamin C?",
+    "answer": "Highest vitamin C foods include bell peppers, guavas, kiwis, strawberries, oranges, papayas, broccoli, and tomatoes. Vitamin C supports immunity, collagen production, and iron absorption."
+  },
+  {
+    "question": "What is the best diet for weight loss long-term?",
+    "answer": "The best long-term weight loss diet is one you can sustain, includes mostly whole foods, fits your lifestyle, is nutritionally balanced, and does not feel like restriction. Gradual sustainable changes beat quick fixes."
+  },
+  {
+    "question": "How does exercise relate to diet?",
+    "answer": "Diet and exercise work together. Exercise increases calorie expenditure and muscle mass, while diet provides the nutrients needed for performance and recovery. Together they are more effective than either alone for health and weight management."
+  },
+  {
+    "question": "What foods are good for hair growth?",
+    "answer": "Hair growth foods include eggs, berries, spinach, fatty fish, sweet potatoes, avocados, nuts, seeds, and legumes. They provide protein, biotin, iron, zinc, and omega-3 fatty acids essential for healthy hair."
+  },
+  {
+    "question": "How can I stay hydrated throughout the day?",
+    "answer": "Stay hydrated by drinking water with each meal, carrying a water bottle, eating water-rich foods like cucumbers and watermelon, drinking herbal teas, setting reminders to drink, and replacing sugary drinks with water."
+  },
+  {
+    "question": "What are the healthiest vegetables?",
+    "answer": "Healthiest vegetables include spinach, kale, broccoli, sweet potatoes, bell peppers, Brussels sprouts, asparagus, garlic, beets, and carrots. Aim for a variety of colors to get different nutrients and antioxidants."
+  },
+  {
+    "question": "Is dairy good or bad for you?",
+    "answer": "Dairy provides calcium, protein, and vitamins for most people. Full-fat dairy in moderation can be part of a healthy diet. People who are lactose intolerant or prefer plant-based options can get nutrients from fortified alternatives."
+  },
+  {
+    "question": "What is the best time to eat fruit?",
+    "answer": "Fruit can be eaten at any time of day. There is no scientific evidence that eating fruit at certain times is harmful. It makes a great breakfast addition, snack, or dessert. The sugar in whole fruit is accompanied by fiber."
+  },
+  {
+    "question": "How can I make healthier choices at fast food restaurants?",
+    "answer": "At fast food restaurants, choose grilled over fried, get salads with dressing on the side, skip supersizing, choose water or unsweetened drinks, opt for fruit sides, and be aware of high-calorie sauces and condiments."
+  },
+  {
+    "question": "What foods help prevent anemia?",
+    "answer": "Prevent anemia by eating iron-rich foods like red meat, spinach, lentils, and fortified cereals. Vitamin C enhances iron absorption. Also ensure adequate vitamin B12 and folate intake from eggs, meat, dairy, and leafy greens."
+  },
+  {
+    "question": "What are net carbs?",
+    "answer": "Net carbs are total carbohydrates minus fiber and sugar alcohols. They represent carbs that affect blood sugar. Commonly tracked in keto and low-carb diets. For example, a food with 20g carbs and 8g fiber has 12g net carbs."
+  },
+  {
+    "question": "How can I reduce food waste?",
+    "answer": "Reduce food waste by planning meals before shopping, proper food storage, using leftovers creatively, understanding date labels, composting scraps, buying imperfect produce, and freezing foods before they spoil."
+  },
+  {
+    "question": "What are the healthiest fruits?",
+    "answer": "Healthiest fruits include blueberries, avocados, pomegranates, kiwis, cherries, watermelon, guavas, bananas, and oranges. Eat a variety of colorful fruits for different vitamins, minerals, and antioxidants."
+  },
+  {
+    "question": "How does diet affect hormones?",
+    "answer": "Diet significantly affects hormones. Healthy fats support hormone production, fiber helps eliminate excess estrogen, blood sugar stability is crucial for insulin, and nutrient deficiencies can disrupt thyroid and adrenal function."
+  },
+  {
+    "question": "What is clean eating?",
+    "answer": "Clean eating focuses on whole, minimally processed foods like fruits, vegetables, whole grains, lean proteins, and healthy fats. It avoids heavily processed foods, artificial additives, and excess sugar. It is more a lifestyle than a diet."
+  },
+  {
+    "question": "How can I eat less meat?",
+    "answer": "Eat less meat by trying Meatless Monday, substituting plant proteins like beans or lentils, exploring vegetarian cuisines, making meat a side dish rather than the main, using mushrooms as meat substitutes, and gradually reducing portions."
+  },
+  {
+    "question": "What foods are good for eye health?",
+    "answer": "Eye-healthy foods include carrots, sweet potatoes, leafy greens, eggs, fatty fish, citrus fruits, nuts, and seeds. They provide vitamin A, lutein, zeaxanthin, omega-3, vitamin C, and vitamin E."
+  },
+  {
+    "question": "What is the 80/20 rule in dieting?",
+    "answer": "The 80/20 rule means eating nutritious whole foods 80% of the time and allowing indulgences 20% of the time. It promotes a sustainable balanced approach rather than strict restriction, making healthy eating more enjoyable."
+  },
+  {
+    "question": "How can I eat more protein without eating more meat?",
+    "answer": "Get more protein without meat from Greek yogurt, eggs, cottage cheese, lentils, chickpeas, black beans, edamame, tofu, tempeh, quinoa, hemp seeds, and protein-fortified foods like certain pastas and cereals."
+  },
+  {
+    "question": "What is the best diet for someone with IBS?",
+    "answer": "For IBS, try the low-FODMAP diet which restricts fermentable carbohydrates. Keep a food diary to identify triggers. Generally helpful: cooked vegetables, lean meats, rice, oats, and bananas. Avoid dairy, wheat, beans, and onions if sensitive."
+  },
+  {
+    "question": "How do I know if I need to see a dietitian?",
+    "answer": "See a dietitian if you have a chronic health condition, need to lose or gain significant weight, have a complex relationship with food, are pregnant or breastfeeding, are an athlete needing performance nutrition, or feel overwhelmed by nutrition information."
+  },
+  {
+    "question": "What foods help boost serotonin?",
+    "answer": "Foods that support serotonin include turkey, eggs, cheese, salmon, tofu, nuts, seeds, and pineapple. These contain tryptophan, a precursor to serotonin. Complex carbohydrates help tryptophan reach the brain."
+  },
+  {
+    "question": "What is the best way to cook vegetables?",
+    "answer": "Best cooking methods for vegetables include steaming to preserve nutrients, roasting for flavor, stir-frying quickly with healthy oil, and eating raw. Avoid boiling for long periods as it destroys water-soluble vitamins."
+  },
+  {
+    "question": "How can I develop a healthy relationship with food?",
+    "answer": "Develop a healthy food relationship by avoiding labeling foods as good or bad, eating all foods in moderation, not using food as reward or punishment, listening to your body, enjoying meals without guilt, and seeking help if needed."
+  },
+  {
+    "question": "What foods help with memory and concentration?",
+    "answer": "Memory-boosting foods include fatty fish, blueberries, turmeric, broccoli, pumpkin seeds, dark chocolate, nuts, and eggs. They provide antioxidants, omega-3, and vitamins that support brain health and cognitive function."
+  },
+  {
+    "question": "What are the benefits of eating breakfast?",
+    "answer": "Breakfast benefits include kickstarting metabolism, improving concentration and mood, providing energy for the morning, reducing overeating later, and supporting healthy weight. Choose nutrient-dense options over sugary cereals."
+  },
+  {
+    "question": "How can I lose weight without feeling hungry?",
+    "answer": "Lose weight without hunger by eating high volume low calorie foods like vegetables, choosing high protein meals that promote satiety, including healthy fats, eating fiber-rich foods, staying hydrated, and not skipping meals."
+  },
+  {
+    "question": "What foods should I eat for a flat stomach?",
+    "answer": "For a flatter stomach, eat anti-bloating foods like ginger, cucumbers, and peppermint, reduce sodium, avoid carbonated drinks, eat smaller more frequent meals, include probiotic foods, and exercise regularly including core workouts."
+  },
+  {
+    "question": "What is the healthiest way to lose weight?",
+    "answer": "The healthiest way to lose weight is through a moderate calorie deficit from whole foods, regular physical activity, adequate sleep, stress management, and building sustainable healthy habits. Avoid extreme diets or excessive restriction."
+  },
+  {
+    "question": "How does age affect nutritional needs?",
+    "answer": "As we age, we need fewer calories but more nutrients. Older adults need more protein to prevent muscle loss, calcium and vitamin D for bones, B12, and fiber. Metabolism slows and appetite may decrease with age."
+  },
+  {
+    "question": "What is the connection between diet and acne?",
+    "answer": "Some research links high glycemic diets, dairy, and processed foods to acne in some people. A diet rich in vegetables, fruits, whole grains, and omega-3 may help. Results vary individually; track which foods affect your skin."
+  },
+  {
+    "question": "How can I make salads more filling?",
+    "answer": "Make salads filling by adding protein like grilled chicken, eggs, or chickpeas, including healthy fats like avocado or nuts, adding whole grains, using bulky fiber-rich vegetables, and a flavorful dressing in moderate amounts."
+  },
+  {
+    "question": "What foods are good for a healthy gut microbiome?",
+    "answer": "For a healthy gut microbiome, eat diverse plant foods, fermented foods like yogurt and kefir, prebiotic foods like garlic and onions, fiber-rich foods, and limit processed foods and antibiotics unless medically necessary."
+  },
+  {
+    "question": "How can I track my nutrition effectively?",
+    "answer": "Track nutrition effectively using apps like MyFitnessPal or Cronometer, reading food labels, keeping a food diary, learning about portion sizes, planning meals in advance, and consulting a dietitian for personalized guidance."
+  },
+  {
+    "question": "What is the best diet for weight loss?",
+    "answer": "The best diet for weight loss is one you can sustain long-term. Focus on whole foods, vegetables, lean proteins, and whole grains. Create a moderate calorie deficit of 500 calories per day for safe 0.5kg weekly loss. Avoid crash diets."
+  },
+  {
+    "question": "How many calories should I eat to lose weight?",
+    "answer": "To lose weight, eat 500 fewer calories than you burn daily. For most women this is 1200-1500 calories and for men 1500-1800 calories. Never go below 1200 calories without medical supervision as this can harm your health."
+  },
+  {
+    "question": "What foods help you lose belly fat?",
+    "answer": "No food specifically targets belly fat, but these help overall fat loss: lean proteins, fiber-rich vegetables, whole grains, green tea, and foods rich in omega-3. Reduce sugar, alcohol, and processed foods which promote belly fat storage."
+  },
+  {
+    "question": "Is the keto diet safe?",
+    "answer": "The keto diet is generally safe for healthy adults short-term. It can cause initial side effects like fatigue and headaches called keto flu. Long-term safety is less clear. People with diabetes, kidney disease, or heart conditions should consult a doctor first."
+  },
+  {
+    "question": "What is the healthiest breakfast?",
+    "answer": "The healthiest breakfasts include eggs with vegetables, oatmeal with berries and nuts, Greek yogurt with fruit and seeds, avocado toast on whole grain bread, or a smoothie with protein, fruits, and spinach. Choose options high in protein and fiber."
+  },
+  {
+    "question": "How much protein should I eat per day?",
+    "answer": "For sedentary adults, 0.8g protein per kg of body weight is sufficient. Athletes need 1.2-2.0g per kg. For a 70kg person this means 56-140g daily. Good sources include eggs, chicken, fish, legumes, and dairy products."
+  },
+  {
+    "question": "What are the best foods for weight loss?",
+    "answer": "Best weight loss foods include eggs, leafy greens, salmon, cruciferous vegetables, chicken breast, boiled potatoes, legumes, soups, apple cider vinegar, nuts, whole grains, and chili peppers. They promote fullness and boost metabolism."
+  },
+  {
+    "question": "Is intermittent fasting effective?",
+    "answer": "Yes, intermittent fasting is effective for weight loss and metabolic health. The 16:8 method and 5:2 method are most popular. It works by reducing calorie intake and improving insulin sensitivity. Results vary by individual."
+  },
+  {
+    "question": "What foods are highest in protein?",
+    "answer": "Highest protein foods per 100g include chicken breast (31g), tuna (30g), turkey (29g), cottage cheese (25g), Greek yogurt (17g), eggs (13g), lentils (9g), and chickpeas (9g). Animal proteins are complete proteins containing all essential amino acids."
+  },
+  {
+    "question": "How can I speed up my metabolism?",
+    "answer": "Speed up metabolism by building muscle through strength training, eating enough protein, staying hydrated, getting enough sleep, eating regular meals, drinking green tea or coffee, and doing high intensity interval training. Avoid very low calorie diets which slow metabolism."
+  },
+  {
+    "question": "What should I eat before bed?",
+    "answer": "Before bed, eat light protein-rich foods like Greek yogurt, cottage cheese, or a small handful of nuts. These promote muscle recovery during sleep. Avoid heavy meals, spicy food, alcohol, and high sugar foods within 2 hours of bedtime."
+  },
+  {
+    "question": "What are the benefits of drinking water?",
+    "answer": "Water benefits include boosting metabolism by 24-30%, reducing appetite, improving energy levels, supporting kidney function, maintaining skin health, lubricating joints, regulating body temperature, and aiding nutrient transport throughout the body."
+  },
+  {
+    "question": "What is the Mediterranean diet good for?",
+    "answer": "The Mediterranean diet reduces risk of heart disease by up to 30%, reduces stroke risk, improves brain health, helps manage type 2 diabetes, reduces cancer risk, promotes longevity, and supports healthy weight management. It is consistently ranked among the healthiest diets."
+  },
+  {
+    "question": "How can I reduce calories without feeling hungry?",
+    "answer": "Reduce calories without hunger by eating high volume low calorie foods like vegetables and broth soups, choosing high fiber foods, eating more protein, drinking water before meals, using smaller plates, eating slowly, and avoiding liquid calories."
+  },
+  {
+    "question": "What vitamins and minerals are most important?",
+    "answer": "Most important vitamins and minerals include Vitamin D for immune and bone health, B12 for nerve function, iron for energy, calcium for bones, magnesium for hundreds of enzyme reactions, zinc for immunity, and omega-3 for heart and brain health."
+  },
+  {
+    "question": "Is sugar bad for you?",
+    "answer": "Added sugar in excess is harmful, linked to obesity, type 2 diabetes, heart disease, and tooth decay. Natural sugars in whole fruits and dairy come with fiber and nutrients. The WHO recommends limiting added sugar to under 10% of daily calories, ideally under 5%."
+  },
+  {
+    "question": "What are the healthiest snacks?",
+    "answer": "Healthiest snacks include apple with almond butter, hummus with vegetables, Greek yogurt, handful of mixed nuts, hard boiled eggs, cottage cheese with fruit, edamame, dark chocolate with berries, rice cakes with avocado, and smoothies."
+  },
+  {
+    "question": "How does diet affect heart health?",
+    "answer": "Diet is crucial for heart health. A heart healthy diet includes omega-3 rich fish, whole grains, fruits, vegetables, nuts, and olive oil. Limit saturated fats, trans fats, sodium, and added sugars. The Mediterranean and DASH diets are most evidence-based for heart health."
+  },
+  {
+    "question": "What foods boost the immune system?",
+    "answer": "Immune boosting foods include citrus fruits (vitamin C), red bell peppers, broccoli, garlic, ginger, spinach, yogurt (probiotics), almonds (vitamin E), turmeric, green tea, papaya, and kiwi. A balanced diet with plenty of fruits and vegetables is most important."
+  },
+  {
+    "question": "Is eating fat bad for you?",
+    "answer": "Dietary fat is essential and not inherently bad. Healthy unsaturated fats in olive oil, avocados, nuts, and fatty fish support heart and brain health. Saturated fats should be limited. Trans fats should be avoided completely. Fat does not directly cause body fat."
+  },
+  {
+    "question": "What is the best diet for diabetes?",
+    "answer": "For type 2 diabetes, focus on low glycemic index foods, controlled carbohydrate portions, plenty of non-starchy vegetables, lean proteins, healthy fats, and fiber. Limit refined carbs, sugary drinks, and processed foods. Regular meals help stabilize blood sugar."
+  },
+  {
+    "question": "How much fiber do I need daily?",
+    "answer": "Adults need 25-38 grams of fiber daily. Women need about 25g and men about 38g. Most people only get about 15g. Increase fiber gradually to avoid digestive discomfort. Good sources include legumes, whole grains, fruits, vegetables, and seeds."
+  },
+  {
+    "question": "What are the best foods for energy?",
+    "answer": "Best energy foods include oats for sustained energy, bananas for quick fuel, sweet potatoes for complex carbs, eggs for protein and B vitamins, nuts for healthy fats, brown rice, legumes, and fruits. Stay hydrated as dehydration causes fatigue."
+  },
+  {
+    "question": "Is coffee good or bad for health?",
+    "answer": "Moderate coffee consumption of 3-4 cups daily is associated with reduced risk of type 2 diabetes, Parkinson's disease, liver disease, and depression. It improves alertness and physical performance. Avoid excessive amounts and do not add too much sugar or cream."
+  },
+  {
+    "question": "What is clean eating?",
+    "answer": "Clean eating means choosing whole minimally processed foods, avoiding artificial additives, refined sugars, and unhealthy fats. It emphasizes fruits, vegetables, whole grains, lean proteins, and healthy fats. It is more a philosophy than a strict diet plan."
+  },
+  {
+    "question": "How can I eat healthier on a budget?",
+    "answer": "Eat healthy on a budget by buying seasonal produce, frozen vegetables and fruits, dried beans and lentils in bulk, eggs as cheap protein, whole grains like oats and rice, cooking at home, planning meals, reducing meat, and buying store brands."
+  },
+  {
+    "question": "What foods cause weight gain?",
+    "answer": "Foods most associated with weight gain include sugary drinks, potato chips, processed meats, sweets, refined grains, fried foods, fruit juice, and alcohol. These are high in calories, low in nutrients, and do not promote satiety effectively."
+  },
+  {
+    "question": "What is the best way to detox your body?",
+    "answer": "Your liver and kidneys naturally detox your body effectively. Support this by drinking plenty of water, eating a plant-rich diet, limiting alcohol, reducing processed foods, getting enough sleep, and exercising. Commercial detox diets have no scientific evidence."
+  },
+  {
+    "question": "How can I stick to a healthy diet?",
+    "answer": "Stick to healthy eating by meal planning, keeping healthy foods visible, meal prepping on weekends, finding healthy versions of favorite foods, allowing occasional treats, eating mindfully, tracking progress, finding support, and focusing on adding good foods rather than restricting."
+  },
+  {
+    "question": "What is the best protein powder?",
+    "answer": "Best protein powders include whey protein for fast absorption and muscle building, casein for slow release overnight, pea protein for plant-based option, hemp protein for complete amino acids, and egg white protein. Choose based on dietary preferences and goals."
+  },
+  {
+    "question": "How can I gain muscle with diet?",
+    "answer": "To gain muscle, eat a calorie surplus of 200-500 calories, consume 1.6-2.2g protein per kg body weight, time protein intake around workouts, eat enough carbohydrates for energy, and include healthy fats. Consistent strength training combined with nutrition is essential."
+  },
+  {
+    "question": "What are empty calories and which foods have them?",
+    "answer": "Empty calories provide energy but minimal nutrients. Foods with empty calories include sugary drinks, candy, cookies, chips, white bread, alcohol, and most fast food. Replace these with nutrient-dense whole foods for the same calories but much better nutrition."
+  },
+  {
+    "question": "Is it possible to eat too much protein?",
+    "answer": "Eating too much protein is generally unnecessary and expensive but not harmful for healthy people. Very high intake (over 3g per kg) may stress kidneys in people with kidney disease. Focus on meeting your needs of 1.6-2.2g per kg if building muscle rather than exceeding them."
+  },
+  {
+    "question": "What foods are good for skin health?",
+    "answer": "Skin healthy foods include fatty fish for omega-3, avocados for healthy fats, walnuts for essential fatty acids, sunflower seeds for vitamin E, sweet potatoes for beta-carotene, tomatoes for lycopene, bell peppers for vitamin C, and green tea for antioxidants."
+  },
+  {
+    "question": "How does alcohol affect weight loss?",
+    "answer": "Alcohol hinders weight loss by adding empty calories (7 cal per gram), slowing fat burning, increasing appetite, reducing willpower and food choices, disrupting sleep, and lowering testosterone. If you drink, choose lower calorie options and account for calories."
+  },
+  {
+    "question": "What is intuitive eating and does it work?",
+    "answer": "Intuitive eating is an approach that rejects diet culture, honors hunger and fullness cues, makes peace with all foods, and focuses on body respect. Research shows it improves psychological wellbeing and eating behaviors. It may not always lead to weight loss but improves health overall."
+  },
+  {
+    "question": "What is the best diet for athletes?",
+    "answer": "Athletes need higher carbohydrates for fuel (6-10g per kg), adequate protein for muscle repair (1.2-2.0g per kg), healthy fats, plenty of micronutrients, and careful hydration. Meal timing around training matters. Sports nutrition should be personalized to the sport and training volume."
+  },
+  {
+    "question": "How can I reduce sugar cravings?",
+    "answer": "Reduce sugar cravings by eating regular balanced meals with protein and fat, staying hydrated, getting enough sleep, managing stress, gradually reducing sugar intake to reset taste preferences, eating fruit to satisfy sweet cravings naturally, and identifying emotional eating triggers."
+  },
+  {
+    "question": "What are the healthiest cooking methods?",
+    "answer": "Healthiest cooking methods include steaming which preserves most nutrients, grilling with minimal added fat, baking and roasting, stir frying quickly at high heat, poaching for delicate proteins, and slow cooking for legumes and tough meats. Avoid deep frying."
+  },
+  {
+    "question": "Is organic food worth buying?",
+    "answer": "Organic food reduces pesticide exposure but evidence for superior nutrition is mixed. If budget allows, prioritize organic for the dirty dozen including strawberries, spinach, and apples. The clean fifteen including avocados and sweet corn are safer conventionally grown."
+  },
+  {
+    "question": "What foods are good for gut health?",
+    "answer": "Gut healthy foods include fermented foods like yogurt, kefir, sauerkraut, kimchi, and miso for probiotics. Prebiotic foods like garlic, onions, bananas, and oats feed good bacteria. Diverse fiber from fruits and vegetables supports a rich microbiome."
+  },
+  {
+    "question": "How can I reduce inflammation through diet?",
+    "answer": "Reduce inflammation by eating omega-3 rich fatty fish, colorful fruits and vegetables, olive oil, nuts, whole grains, and spices like turmeric and ginger. Limit processed foods, refined sugars, vegetable oils high in omega-6, red meat, and alcohol."
+  },
+  {
+    "question": "What is the difference between hunger and appetite?",
+    "answer": "Hunger is a physical need for food, felt as stomach growling, weakness, or lightheadedness. Appetite is the desire to eat driven by emotions, habits, or the sight of food. Understanding the difference helps prevent overeating. Wait 15 minutes when unsure if you are truly hungry."
+  },
+  {
+    "question": "How does diet affect mental health?",
+    "answer": "Diet significantly affects mental health. The gut-brain axis means gut health influences mood. Omega-3 fatty acids, B vitamins, magnesium, and zinc support mental health. The Mediterranean diet is associated with lower depression risk. Ultra-processed foods worsen mental health outcomes."
+  },
+  {
+    "question": "What foods should I avoid for better health?",
+    "answer": "Avoid or minimize processed meats, sugary beverages, artificial trans fats, refined grains, highly processed snacks, excessive alcohol, and foods with long ingredient lists of artificial additives. Replace these gradually with whole food alternatives."
+  },
+  {
+    "question": "Is breakfast really the most important meal?",
+    "answer": "Breakfast importance varies by individual. Some people thrive skipping it through intermittent fasting while others need it for energy and focus. If you eat breakfast, choose nutrient-dense options. The quality of all meals matters more than which one is the most important."
+  },
+  {
+    "question": "What are the best foods for bone health?",
+    "answer": "Bone healthy foods include dairy products, fortified plant milks, sardines with bones, salmon, tofu, kale, broccoli, bok choy, almonds, and fortified cereals. Vitamin D is essential for calcium absorption. Weight bearing exercise also builds and maintains bone density."
+  },
+  {
+    "question": "How can I eat more mindfully?",
+    "answer": "Eat more mindfully by sitting down for all meals, removing screens, eating slowly and chewing thoroughly, appreciating flavors and textures, listening to hunger and fullness signals, pausing halfway through meals, serving smaller portions and going back if still hungry."
+  },
+  {
+    "question": "What is the role of carbohydrates in the diet?",
+    "answer": "Carbohydrates are the body's primary fuel source, especially for the brain and during exercise. Choose complex carbohydrates from whole grains, vegetables, and legumes. They provide fiber, vitamins, and minerals. Low carb diets work for some but are not necessary for everyone."
+  },
+  {
+    "question": "How do I know if I have a food sensitivity?",
+    "answer": "Food sensitivity symptoms include bloating, gas, stomach pain, diarrhea, headaches, skin issues, and fatigue occurring hours after eating. Keep a food diary to identify patterns. An elimination diet under guidance can help identify triggers. Consult a doctor for proper testing."
+  },
+  {
+    "question": "What are the best foods for weight management?",
+    "answer": "Best foods for weight management include eggs, leafy greens, whole grains, legumes, lean proteins, fruits, vegetables, nuts in moderation, Greek yogurt, and water-rich foods. These promote satiety, provide nutrients, and help maintain a healthy calorie balance."
+  },
+  {
+    "question": "How much calcium do I need daily?",
+    "answer": "Adults need 1000mg of calcium daily. Women over 50 and men over 70 need 1200mg. Good sources include dairy products with 300mg per serving, fortified plant milks, sardines, tofu, and leafy greens. Vitamin D is essential for calcium absorption."
+  },
+  {
+    "question": "What foods help with weight gain?",
+    "answer": "Healthy weight gain foods include nuts and nut butters, avocados, whole grain bread, eggs, full fat dairy, legumes, lean meats, whole grain pasta and rice, dark chocolate, and healthy smoothies. Focus on nutrient dense calorie rich foods rather than junk food."
+  },
+  {
+    "question": "Is eating red meat bad for you?",
+    "answer": "Moderate red meat consumption can fit in a healthy diet. Processed red meats like bacon and sausage are more concerning, linked to higher cancer risk. Limit red meat to 1-2 servings per week, choose lean cuts, and balance with plenty of vegetables and whole grains."
+  },
+  {
+    "question": "What is the glycemic load?",
+    "answer": "Glycemic load accounts for both the glycemic index of a food and the amount consumed. It is a more accurate measure of how food affects blood sugar. Low GL is under 10, medium is 11-19, high is 20 or more. Important for diabetes management and blood sugar control."
+  },
+  {
+    "question": "How can I improve my relationship with food?",
+    "answer": "Improve your relationship with food by rejecting diet mentality, giving yourself unconditional permission to eat all foods, respecting hunger and fullness, finding satisfaction in eating, moving for enjoyment not punishment, and seeking support from a therapist if needed."
+  },
+  {
+    "question": "What foods are good for thyroid function?",
+    "answer": "Thyroid supporting foods include iodine from seafood and dairy, selenium from Brazil nuts and tuna, zinc from meat and seeds, iron from lean meats and legumes, and adequate vitamin D. Those with thyroid conditions should discuss dietary modifications with their doctor."
+  },
+  {
+    "question": "How does stress affect eating habits?",
+    "answer": "Stress affects eating by triggering cravings for high fat and sugar foods, causing emotional eating, disrupting hunger hormones, increasing cortisol which promotes fat storage, and leading to either overeating or undereating. Stress management through exercise and sleep is essential."
+  },
+  {
+    "question": "What is the best diet for high cholesterol?",
+    "answer": "For high cholesterol, increase soluble fiber from oats, beans, and fruits. Eat more omega-3 fatty acids from fatty fish. Use olive oil instead of butter. Eat nuts regularly. Reduce saturated fat, eliminate trans fats, and limit dietary cholesterol from egg yolks and organ meats."
+  },
+  {
+    "question": "How can I eat more vegetables?",
+    "answer": "Eat more vegetables by adding spinach to smoothies, roasting vegetables for better flavor, using cauliflower rice or zucchini noodles, adding vegetables to eggs and pasta, trying new vegetables monthly, keeping cut vegetables ready in the fridge, and making soups and stews."
+  },
+  {
+    "question": "What is the best meal timing for weight loss?",
+    "answer": "For weight loss, meal timing matters less than total calories. However, eating most calories earlier in the day, avoiding late night eating, eating breakfast to prevent overeating later, and maintaining consistent eating times may support weight management for some people."
+  },
+  {
+    "question": "Are smoothies healthy?",
+    "answer": "Smoothies can be very healthy or very unhealthy depending on ingredients. Healthy smoothies include leafy greens, whole fruits, protein like Greek yogurt or protein powder, and healthy fats from nuts or seeds. Avoid smoothies with added sugars, fruit juices, and excessive fruit."
+  },
+  {
+    "question": "What are the benefits of eating nuts?",
+    "answer": "Nuts provide healthy fats, protein, fiber, vitamins, and minerals. Regular nut consumption is linked to reduced heart disease risk, lower cholesterol, better weight management despite high calorie content, and reduced inflammation. A handful per day is an ideal amount."
+  },
+  {
+    "question": "Is plant-based protein as good as animal protein?",
+    "answer": "Plant proteins can be as effective as animal proteins when consumed in adequate amounts and variety. They are incomplete alone but combining sources like rice and beans or eating soy products provides all essential amino acids. Plant proteins also come with fiber and phytonutrients."
+  },
+  {
+    "question": "How can I prevent nutritional deficiencies?",
+    "answer": "Prevent deficiencies by eating a varied diet with all food groups, including colorful fruits and vegetables, lean proteins, whole grains, and dairy or fortified alternatives. Vegans should supplement B12. Get annual blood tests to check levels and address deficiencies early."
+  },
+  {
+    "question": "What foods are good for liver health?",
+    "answer": "Liver supporting foods include coffee, tea, grapefruit, berries, grapes, prickly pear, oatmeal, fatty fish, olive oil, and cruciferous vegetables. Avoid excessive alcohol, high fructose corn syrup, added sugars, saturated fats, and processed foods which burden the liver."
+  },
+  {
+    "question": "How does diet affect sleep quality?",
+    "answer": "Diet affects sleep through multiple pathways. Tryptophan rich foods support serotonin and melatonin production. Heavy, spicy, or high fat meals disrupt sleep. Caffeine should be avoided after 2pm. Alcohol disrupts sleep quality. Eating too close to bedtime impairs sleep."
+  },
+  {
+    "question": "What are the best foods for recovery after exercise?",
+    "answer": "Post exercise recovery foods include chocolate milk as a complete recovery drink, Greek yogurt with berries, tuna on whole grain crackers, banana with peanut butter, eggs with whole grain toast, and smoothies with protein powder. Eat within 30-60 minutes for best results."
+  },
+  {
+    "question": "What is the DASH diet?",
+    "answer": "DASH stands for Dietary Approaches to Stop Hypertension. It emphasizes fruits, vegetables, whole grains, lean proteins, and low fat dairy while limiting sodium, red meat, added sugars, and alcohol. It effectively reduces blood pressure and improves overall cardiovascular health."
+  },
+  {
+    "question": "How can I manage food cravings?",
+    "answer": "Manage cravings by eating balanced regular meals, getting enough sleep, managing stress, staying hydrated, identifying emotional triggers, allowing moderate indulgence rather than strict restriction, keeping trigger foods out of the house, and finding healthy alternatives to favorite treats."
+  },
+  {
+    "question": "What is the role of zinc in the diet?",
+    "answer": "Zinc supports immune function, wound healing, DNA synthesis, protein production, and taste and smell. Good sources include meat, shellfish especially oysters, legumes, seeds, nuts, dairy, eggs, and whole grains. Zinc deficiency causes immune problems, hair loss, and poor wound healing."
+  },
+  {
+    "question": "Are cheat days good for weight loss?",
+    "answer": "Occasional higher calorie days can be psychologically beneficial and may help sustain dietary adherence. However, many people overestimate how many extra calories they need on refeed days. Structured refeeds can prevent metabolic adaptation during extended dieting."
+  },
+  {
+    "question": "What foods should pregnant women avoid?",
+    "answer": "Pregnant women should avoid raw or undercooked fish and meat, high mercury fish like swordfish and shark, raw eggs, unpasteurized dairy and juices, alcohol, high caffeine intake, and processed deli meats unless heated. These pose risks of foodborne illness or developmental harm."
+  },
+  {
+    "question": "How can I increase my vegetable intake?",
+    "answer": "Increase vegetable intake by making vegetables the base of meals, sneaking them into sauces and soups, preparing them in advance, trying new cooking methods, exploring different cuisines with vegetables, growing your own, and gradually increasing portions over time."
+  },
+  {
+    "question": "What is the best way to read food labels?",
+    "answer": "When reading food labels, first check the serving size, then look at calories, then focus on limiting saturated fat, sodium, and added sugars, and aim to maximize fiber, protein, and micronutrient percentages. Ingredients are listed by weight so front of label health claims can be misleading."
+  },
+  {
+    "question": "How does diet affect hormonal balance?",
+    "answer": "Diet profoundly affects hormones. Healthy fats are essential for hormone production. Fiber helps eliminate excess estrogen. Blood sugar stability is crucial for insulin balance. Nutrient deficiencies disrupt thyroid, adrenal, and reproductive hormones. Processed foods and sugar worsen hormonal health."
+  },
+  {
+    "question": "What foods are highest in vitamin D?",
+    "answer": "Highest vitamin D foods include fatty fish like salmon and mackerel, fortified dairy and plant milks, egg yolks, mushrooms exposed to sunlight, and fortified cereals. Most people need sun exposure or supplementation to meet vitamin D needs as few foods contain adequate amounts."
+  },
+  {
+    "question": "Is meal prepping worth it?",
+    "answer": "Meal prepping is highly beneficial for eating healthier, saving time during the week, reducing food waste, saving money, and reducing stress around food decisions. Start with prepping just a few components like cooked grains, proteins, and cut vegetables rather than full meals."
+  },
+  {
+    "question": "What are the best foods for managing anxiety?",
+    "answer": "Anxiety reducing foods include fatty fish for omega-3, pumpkin seeds for magnesium and zinc, dark chocolate for antioxidants, turmeric for curcumin, chamomile tea, yogurt for probiotics, green tea for L-theanine, and eggs for tryptophan and B vitamins."
+  },
+  {
+    "question": "How does the gut microbiome affect health?",
+    "answer": "The gut microbiome containing trillions of bacteria influences digestion, immunity, mental health through the gut-brain axis, metabolism, and inflammation. A diverse microbiome is healthiest. Support it with varied plant foods, fermented foods, fiber, and avoiding unnecessary antibiotics."
+  },
+  {
+    "question": "What is the best diet for longevity?",
+    "answer": "Diets associated with longevity from Blue Zone research include the Mediterranean diet, traditional Okinawan diet, and Sardinian diet. They share emphasis on whole plant foods, legumes, moderate fish, minimal processed foods, and strong social connections around meals."
+  },
+  {
+    "question": "Are artificial sweeteners safe?",
+    "answer": "Major health authorities consider approved artificial sweeteners safe in recommended amounts. However emerging research suggests they may affect gut microbiome and some individuals experience digestive symptoms. Natural alternatives like stevia and monk fruit are considered safer options."
+  },
+  {
+    "question": "How can I reduce sodium in my diet?",
+    "answer": "Reduce sodium by cooking at home, using herbs and spices instead of salt, choosing low sodium canned goods, rinsing canned beans, avoiding processed and fast foods, reading labels for sodium content, limiting soy sauce and condiments, and gradually reducing amounts to adjust taste."
+  },
+  {
+    "question": "What foods help prevent osteoporosis?",
+    "answer": "Prevent osteoporosis with calcium from dairy, fortified foods, and leafy greens, vitamin D from fatty fish and sunlight, vitamin K from greens, magnesium from nuts and seeds, and protein. Avoid excessive alcohol, caffeine, and sodium which reduce calcium absorption or increase excretion."
+  },
+  {
+    "question": "How do I calculate my daily calorie needs?",
+    "answer": "Calculate calorie needs using the Mifflin-St Jeor equation then multiply by an activity factor. For women use 10 times weight in kg plus 6.25 times height in cm minus 5 times age minus 161. For men the last step is plus 5. Then multiply by 1.2 for sedentary to 1.9 for very active."
+  },
+  {
+    "question": "What are the benefits of fermented foods?",
+    "answer": "Fermented foods like yogurt, kefir, sauerkraut, kimchi, miso, and kombucha provide beneficial probiotics, improve digestion, boost immunity, enhance nutrient absorption, support mental health through the gut-brain axis, and may reduce inflammation and risk of chronic disease."
+  },
+  {
+    "question": "Is gluten bad for everyone?",
+    "answer": "Gluten is harmful only for people with celiac disease (1% of population), non-celiac gluten sensitivity, or wheat allergy. For everyone else, whole wheat and whole grain gluten-containing foods are nutritious. Gluten-free diets are not healthier for those without these conditions."
+  },
+  {
+    "question": "What is the best way to stay motivated to eat healthy?",
+    "answer": "Stay motivated by setting realistic goals, tracking progress, finding healthy foods you genuinely enjoy, cooking new recipes, focusing on how healthy eating makes you feel, finding an accountability partner, celebrating small wins, and avoiding all-or-nothing thinking."
+  },
+  {
+    "question": "How does diet affect blood sugar levels?",
+    "answer": "Diet is the primary driver of blood sugar levels. High glycemic foods like white bread and sugar cause rapid spikes. Fiber, protein, and fat slow glucose absorption. Consistent meal timing, portion control, and focusing on whole foods help maintain stable blood sugar throughout the day."
+  },
+  {
+    "question": "What are the healthiest oils for cooking?",
+    "answer": "Healthiest cooking oils include extra virgin olive oil for low-medium heat and salads, avocado oil for high heat cooking, coconut oil in moderation, and butter or ghee occasionally. Avoid highly refined vegetable oils and partially hydrogenated oils containing trans fats."
+  },
+  {
+    "question": "How can I eat healthier at restaurants?",
+    "answer": "Eat healthier at restaurants by reviewing the menu online beforehand, asking for sauces and dressings on the side, choosing grilled over fried, starting with salad or soup, requesting extra vegetables, controlling portions by boxing half the meal immediately, and avoiding sugary drinks."
+  },
+  {
+    "question": "What foods help reduce blood pressure?",
+    "answer": "Blood pressure lowering foods include leafy greens rich in potassium, berries for flavonoids, beets for nitrates, oats for beta-glucan, bananas for potassium, salmon for omega-3, garlic, olive oil, pomegranate, and dark chocolate. The DASH diet is specifically designed for blood pressure reduction."
+  },
+  {
+    "question": "Is juicing healthy?",
+    "answer": "Juicing removes beneficial fiber while concentrating sugars and some nutrients. Whole fruits and vegetables are nutritionally superior. Green vegetable juices with minimal fruit are better options. If juicing, count calories and do not use it as a replacement for whole produce consumption."
+  },
+  {
+    "question": "What are the best foods for hair health?",
+    "answer": "Best foods for hair health include eggs for biotin and protein, berries for vitamin C, spinach for iron and folate, fatty fish for omega-3, sweet potatoes for beta-carotene, avocados for vitamin E, nuts for zinc and vitamin E, and seeds for selenium and zinc."
+  },
+  {
+    "question": "How can I make healthy eating sustainable?",
+    "answer": "Make healthy eating sustainable by following the 80-20 rule, finding nutritious foods you genuinely enjoy, cooking simple recipes, planning meals weekly, keeping healthy staples stocked, preparing convenient healthy options, allowing flexibility for social occasions, and avoiding perfectionism."
+  },
+  {
+    "question": "What is food synergy?",
+    "answer": "Food synergy refers to how nutrients in foods work together to enhance health benefits greater than individual components alone. Examples include tomatoes with olive oil enhancing lycopene absorption, vitamin C with iron foods, and fat-soluble vitamins with healthy fats."
+  },
+  {
+    "question": "How does diet affect brain health?",
+    "answer": "Diet profoundly affects brain health. Omega-3 fatty acids support structure, antioxidants protect against oxidative damage, B vitamins support neurotransmitter production, and glucose from complex carbs fuels brain function. The MIND diet combining Mediterranean and DASH is specifically designed for brain health."
+  },
+  {
+    "question": "What are the best foods for eye health?",
+    "answer": "Eye healthy foods include leafy greens for lutein and zeaxanthin, fatty fish for omega-3, eggs for lutein and zeaxanthin plus zinc, sweet potatoes for beta-carotene and vitamin E, sunflower seeds for vitamin E, bell peppers for vitamin C, and oranges for vitamin C."
+  },
+  {
+    "question": "How does diet affect energy levels?",
+    "answer": "Diet affects energy through blood sugar stability, nutrient adequacy, and hydration. Complex carbohydrates provide sustained energy, protein prevents energy crashes, iron deficiency causes fatigue, dehydration reduces energy, and B vitamins are essential for energy metabolism from food."
+  },
+  {
+    "question": "What is the role of sodium in the diet?",
+    "answer": "Sodium is essential for fluid balance, nerve function, and muscle contraction. However most people consume too much from processed foods. The recommended intake is under 2300mg daily. Excess sodium raises blood pressure, increases heart disease risk, and causes fluid retention."
+  },
+  {
+    "question": "Are plant-based diets healthier?",
+    "answer": "Well-planned plant-based diets are associated with lower rates of heart disease, type 2 diabetes, obesity, and certain cancers. They tend to be higher in fiber and lower in saturated fat. Potential deficiencies include vitamin B12, iron, calcium, zinc, and omega-3 which require attention."
+  },
+  {
+    "question": "How can I reduce emotional eating?",
+    "answer": "Reduce emotional eating by identifying emotional triggers through a food and mood journal, developing alternative coping strategies like exercise or journaling, distinguishing physical from emotional hunger, practicing mindful eating, addressing underlying emotional issues, and seeking professional help if needed."
+  },
+  {
+    "question": "What is the best way to lose weight after 40?",
+    "answer": "After 40, metabolism slows and muscle mass declines. Focus on preserving muscle with adequate protein and strength training, managing hormonal changes, prioritizing sleep quality, reducing stress, increasing fiber intake, avoiding crash diets, and being patient with slower progress."
+  },
+  {
+    "question": "What foods are good for reducing fatigue?",
+    "answer": "Foods that reduce fatigue include iron-rich foods for energy production, complex carbohydrates for sustained fuel, lean proteins for sustained satiety, magnesium from nuts and seeds, vitamin B12 from animal products, and water as dehydration is a major cause of fatigue."
+  },
+  {
+    "question": "How does cooking affect nutritional value?",
+    "answer": "Cooking affects nutrition in complex ways. Heat destroys some vitamins, especially vitamin C and B vitamins, but increases availability of others like lycopene in tomatoes. Steam cooking preserves most nutrients. Boiling leaches water-soluble vitamins into the water. Raw and cooked foods both have nutritional value."
+  },
+  {
+    "question": "What are the best foods for joint health?",
+    "answer": "Joint healthy foods include fatty fish for omega-3 anti-inflammatory effects, turmeric for curcumin, ginger, cherries, broccoli for sulforaphane, walnuts, olive oil, and garlic. Maintain healthy weight to reduce joint stress. Avoid processed foods and sugar which promote inflammation."
+  },
+  {
+    "question": "Is dairy necessary for health?",
+    "answer": "Dairy is not strictly necessary as its nutrients can be obtained from other sources. However it is a convenient and nutrient-dense source of calcium, protein, vitamin D, and B12. Non-dairy sources for calcium include fortified plant milks, tofu, sardines, and leafy greens."
+  },
+  {
+    "question": "What foods help with PMS symptoms?",
+    "answer": "Foods that help PMS include magnesium from dark chocolate and nuts for mood and cramps, calcium from dairy and fortified foods for mood symptoms, vitamin D, omega-3 from fatty fish for inflammation, and reducing salt for bloating, caffeine for anxiety, and alcohol for mood swings."
+  },
+  {
+    "question": "How can I improve digestive health through diet?",
+    "answer": "Improve digestion by eating enough fiber from diverse plant foods, staying well hydrated, eating fermented probiotic foods, chewing food thoroughly, eating regular meals at consistent times, avoiding eating too quickly, reducing processed foods and alcohol, and managing stress levels."
+  },
+  {
+    "question": "What is the best diet for acne?",
+    "answer": "For acne-prone skin, reduce high glycemic index foods like white bread and sugar, limit dairy especially skim milk which may worsen acne, increase omega-3 from fatty fish, eat more zinc from nuts and seeds, and focus on antioxidant-rich fruits and vegetables. Results are individual."
+  },
+  {
+    "question": "How does protein help with weight loss?",
+    "answer": "Protein aids weight loss by increasing satiety hormones, reducing hunger hormones, boosting metabolism through the thermic effect of food, preserving muscle mass during calorie restriction, reducing cravings, and preventing regain after weight loss. Aim for 25-30% of calories from protein."
+  },
+  {
+    "question": "What are the best plant sources of omega-3?",
+    "answer": "Best plant sources of omega-3 include flaxseeds and flaxseed oil, chia seeds, hemp seeds, walnuts, and algae oil. Plant sources provide ALA which must be converted to EPA and DHA. Conversion is inefficient so algae oil provides pre-formed EPA and DHA directly."
+  },
+  {
+    "question": "How can I get enough vitamin B12 on a vegan diet?",
+    "answer": "Vegans must supplement vitamin B12 or eat fortified foods as it is found only in animal products. Fortified nutritional yeast, fortified plant milks, and fortified cereals provide B12. Take a daily supplement of at least 25-250 mcg or weekly supplement of 2000 mcg."
+  },
+  {
+    "question": "What is the best diet for kidney stones?",
+    "answer": "For kidney stone prevention, stay very well hydrated drinking 2-3 liters of water daily, limit sodium, reduce animal protein for oxalate stones, eat calcium with meals to bind oxalate in the gut, and avoid very high vitamin C supplements. Diet specifics depend on stone type."
+  },
+  {
+    "question": "Are protein shakes necessary?",
+    "answer": "Protein shakes are not necessary if you meet protein needs through whole foods. They are convenient supplements for people with high needs, those who struggle to eat enough, or when whole food protein is not available. Whole food protein sources are generally preferred over supplements."
+  },
+  {
+    "question": "What is the best diet for someone with IBS?",
+    "answer": "The low FODMAP diet is most evidence-based for IBS, restricting fermentable carbohydrates that cause digestive symptoms. Work with a dietitian to follow the elimination and reintroduction phases. Common triggers include wheat, lactose, fructose, and certain vegetables like onions and garlic."
+  },
+  {
+    "question": "How can I eat healthy while traveling?",
+    "answer": "Eat healthy while traveling by researching restaurants before arriving, choosing accommodations with kitchen facilities, packing healthy snacks like nuts and dried fruit, choosing grilled proteins and salads when eating out, staying hydrated, and allowing some flexibility without guilt."
+  },
+  {
+    "question": "What foods are naturally high in probiotics?",
+    "answer": "Natural probiotic foods include plain yogurt with live cultures, kefir, sauerkraut, kimchi, miso, tempeh, natto, and kombucha. Choose unpasteurized versions when possible as pasteurization kills beneficial bacteria. Look for labels stating live and active cultures."
+  },
+  {
+    "question": "How does diet affect hormones in women?",
+    "answer": "Diet affects female hormones significantly. Adequate healthy fats support estrogen and progesterone production. Fiber helps metabolize excess estrogen. Blood sugar stability supports insulin and reduces androgen levels. Cruciferous vegetables support estrogen metabolism. Adequate calories prevent disruption of the hypothalamic-pituitary axis."
+  },
+  {
+    "question": "What is the best way to lose weight without exercise?",
+    "answer": "Lose weight without exercise by tracking calorie intake, eating whole filling foods, reducing portion sizes, eliminating liquid calories, cooking at home, eating slowly and mindfully, getting enough sleep, managing stress, and staying hydrated. Exercise does accelerate results and has additional health benefits."
+  },
+  {
+    "question": "What foods help lower blood sugar?",
+    "answer": "Foods that lower or stabilize blood sugar include non-starchy vegetables, legumes, whole grains, cinnamon, apple cider vinegar, fatty fish, nuts, seeds, and berries. These contain fiber, protein, and compounds that slow glucose absorption and improve insulin sensitivity."
+  },
+  {
+    "question": "Are there foods that cause cancer?",
+    "answer": "No single food causes cancer but certain dietary patterns increase risk. Processed meats are classified as Group 1 carcinogens. Excessive alcohol, very hot beverages, and aflatoxins are also carcinogenic. A diet rich in colorful produce, whole grains, and legumes is associated with lower cancer risk."
+  },
+  {
+    "question": "How can I build better eating habits for my children?",
+    "answer": "Build healthy eating habits in children by offering variety from an early age, making vegetables and fruits available and visible, involving children in food preparation, having family meals together, avoiding using food as reward or punishment, modeling healthy eating, and not forcing clean plates."
+  },
+  {
+    "question": "What is the best diet for menopausal women?",
+    "answer": "Menopausal women benefit from calcium and vitamin D for bone health, protein to preserve muscle mass, phytoestrogens from soy foods, omega-3 for heart health and mood, and fiber for digestive health. Limit alcohol, caffeine, and spicy foods which worsen hot flashes. Maintain healthy weight."
+  },
+  {
+    "question": "How does diet affect inflammation?",
+    "answer": "Diet is one of the most powerful modulators of inflammation. Anti-inflammatory diets emphasize omega-3 fatty acids, antioxidant-rich fruits and vegetables, olive oil, whole grains, and spices like turmeric. Ultra-processed foods, refined sugars, and certain vegetable oils promote chronic inflammation."
+  },
+  {
+    "question": "What are the best superfoods?",
+    "answer": "Evidence-based superfoods include blueberries for antioxidants, fatty salmon for omega-3, kale for vitamins and minerals, quinoa for complete protein, avocados for healthy fats and fiber, chia seeds for omega-3 and fiber, broccoli for sulforaphane, and walnuts for brain-supporting omega-3."
+  },
+  {
+    "question": "How much sodium is in common foods?",
+    "answer": "Common sodium content: teaspoon of salt 2300mg, one slice of bread 100-200mg, can of soup 800-1200mg, deli meat per slice 300-500mg, cheese per slice 200-400mg, tablespoon of soy sauce 900mg. Most sodium in the diet comes from processed and restaurant foods not from home cooking."
+  },
+  {
+    "question": "What are the best foods for a flat stomach?",
+    "answer": "For a flatter stomach, reduce bloating triggers like beans, cruciferous vegetables, carbonated drinks, and dairy if intolerant. Eat probiotic foods for digestion, reduce sodium to decrease water retention, include potassium rich foods, and focus on overall fat loss through balanced nutrition and exercise."
+  },
+  {
+    "question": "Is eating less frequently better for weight loss?",
+    "answer": "Meal frequency has minimal effect on weight loss when total calories are equal. Some people prefer fewer larger meals while others do better with smaller frequent meals for blood sugar stability and hunger management. Find the pattern that best supports your calorie goals and lifestyle."
+  },
+  {
+    "question": "What foods are good for preventing type 2 diabetes?",
+    "answer": "Prevent type 2 diabetes with high fiber whole grains, legumes, nuts, green leafy vegetables, fruit in moderation, coffee, and fermented dairy. Reduce refined carbohydrates, sugary beverages, processed meats, and excessive red meat. Maintain healthy weight and exercise regularly."
+  },
+  {
+    "question": "How can I get more iron from plant foods?",
+    "answer": "Maximize plant iron absorption by pairing iron-rich plant foods like spinach, lentils, and fortified cereals with vitamin C sources like orange juice, tomatoes, or bell peppers. Avoid drinking tea or coffee with meals as tannins inhibit iron absorption. Cook in cast iron cookware."
+  },
+  {
+    "question": "What is the best way to detox after unhealthy eating?",
+    "answer": "After unhealthy eating, simply return to your normal healthy eating pattern without guilt or extreme restriction. Your body has built-in detoxification systems. Increase water intake, add more vegetables and fiber, reduce processed foods, and get some exercise. Avoid fasting or extreme cleanses."
+  },
+  {
+    "question": "What foods should older adults focus on?",
+    "answer": "Older adults need protein to prevent muscle loss, calcium and vitamin D for bones, vitamin B12 which is less well absorbed with age, omega-3 for heart and brain health, and plenty of fiber. Calorie needs decrease but nutrient density becomes even more important. Stay well hydrated."
+  },
+  {
+    "question": "How does portion size affect weight?",
+    "answer": "Portion size is a primary driver of calorie intake and weight. Research shows people consistently underestimate portion sizes. Use measuring tools when learning, fill half your plate with vegetables, use smaller plates, serve food in the kitchen not at the table, and eat slowly to recognize fullness."
+  },
+  {
+    "question": "What are the health benefits of green tea?",
+    "answer": "Green tea benefits include rich antioxidant content from catechins especially EGCG, modest metabolism boost, improved brain function, reduced risk of type 2 diabetes and heart disease, potential cancer protective properties, and support for fat burning especially when combined with exercise."
+  },
+  {
+    "question": "How can I maintain my weight during the holidays?",
+    "answer": "Maintain weight during holidays by eating a healthy snack before parties, prioritizing protein and vegetables at gatherings, limiting liquid calories from alcohol and eggnog, being selective about treats you truly enjoy, staying active, maintaining consistent sleep, and avoiding all-or-nothing thinking."
+  },
+  {
+    "question": "What is the best diet for someone trying to get pregnant?",
+    "answer": "For fertility, focus on folate from leafy greens, legumes, and fortified foods, iron from lean meat and plant sources, omega-3 from fatty fish, antioxidants from colorful produce, and whole grains. Limit alcohol, processed foods, and trans fats. Maintain healthy weight as both extremes affect fertility."
+  },
+  {
+    "question": "How does hydration affect exercise performance?",
+    "answer": "Dehydration significantly impairs exercise performance. Even 2% body weight loss from sweat reduces performance by 10-20%. Hydrate well before exercise, drink during if exercising over an hour, and rehydrate after. Water is sufficient for exercise under an hour. Sports drinks benefit longer endurance exercise."
+  },
+  {
+    "question": "What are the best foods for memory improvement?",
+    "answer": "Memory improving foods include fatty fish for DHA which makes up 40% of brain fatty acids, blueberries for flavonoids, turmeric for curcumin, broccoli for vitamin K and antioxidants, pumpkin seeds for zinc, dark chocolate for flavonoids and caffeine, and eggs for choline."
+  },
+  {
+    "question": "How does diet affect skin aging?",
+    "answer": "Diet affects skin aging through collagen production requiring vitamin C and protein, hydration status, antioxidant protection from colorful produce, omega-3 anti-inflammatory effects, blood sugar levels affecting collagen cross-linking, and zinc for skin repair. Reduce sugar which accelerates glycation."
+  },
+  {
+    "question": "What is the connection between diet and gut bacteria?",
+    "answer": "Diet is the primary determinant of gut microbiome composition. Plant diversity feeds different beneficial bacteria species. Fiber acts as prebiotic fuel. Fermented foods introduce beneficial bacteria. Processed foods, artificial sweeteners, and antibiotics reduce microbial diversity. More diverse bacteria correlates with better health."
+  },
+  {
+    "question": "How can I naturally boost my energy without caffeine?",
+    "answer": "Boost energy without caffeine through regular moderate exercise which paradoxically increases energy, adequate hydration, consistent sleep schedule, balanced blood sugar through regular meals, iron adequacy, vitamin B12, stress management, and natural light exposure in the morning."
+  },
+  {
+    "question": "What is the healthiest way to prepare chicken?",
+    "answer": "Healthiest chicken preparations include baking without skin, grilling, poaching, steaming, and stir frying with minimal oil. Remove skin to reduce saturated fat. Marinate with herbs, lemon, and spices for flavor. Avoid deep frying or heavily breaded preparations. Internal temperature should reach 74 degrees Celsius."
+  },
+  {
+    "question": "How does diet affect testosterone levels?",
+    "answer": "Diet affects testosterone through healthy fats which are precursors for testosterone production, zinc from meat and seeds which supports testosterone synthesis, vitamin D, adequate calories and carbohydrates, and avoiding excessive alcohol. Extreme calorie restriction and very low fat diets decrease testosterone levels."
+  },
+  {
+    "question": "What are the benefits of eating breakfast regularly?",
+    "answer": "Regular breakfast consumption is associated with improved concentration and memory, better weight management, reduced risk of type 2 diabetes, improved mood, better nutrient intake overall, and healthier food choices throughout the day. However benefits depend on breakfast quality not just eating anything."
+  },
+  {
+    "question": "How can I eat healthy with a busy schedule?",
+    "answer": "Eat healthy when busy by batch cooking on weekends, keeping healthy convenience foods stocked like canned beans, frozen vegetables, eggs, and yogurt, preparing simple no-cook meals, using a slow cooker, having healthy takeout options identified, and planning the week ahead on Sunday."
+  },
+  {
+    "question": "What foods are best for detoxification?",
+    "answer": "Liver detoxification supporting foods include cruciferous vegetables especially broccoli and Brussels sprouts, garlic and onions for sulfur compounds, beets, green tea, turmeric, citrus fruits, and berries. Most importantly adequate water, fiber to support elimination, and avoiding alcohol and processed foods."
+  },
+  {
+    "question": "How does diet affect the risk of Alzheimer's disease?",
+    "answer": "The MIND diet specifically designed for brain health combines Mediterranean and DASH diets and is associated with reduced Alzheimer's risk. It emphasizes leafy greens daily, other vegetables, berries, nuts, olive oil, whole grains, fish, beans, poultry, and moderate wine while limiting fast food and sweets."
+  },
+  {
+    "question": "What is the best way to stay full on fewer calories?",
+    "answer": "Stay full on fewer calories by choosing high volume low calorie foods like non-starchy vegetables and soups, prioritizing protein which is most satiating, eating fiber-rich foods, drinking water before and with meals, eating slowly and mindfully, and avoiding calorie-dense but not filling processed foods."
+  },
+  {
+    "question": "How do I know if I am getting enough nutrients?",
+    "answer": "Signs of good nutrition include consistent energy levels, clear skin, healthy hair and nails, good concentration, stable mood, regular digestion, healthy weight, good sleep, and absence of frequent illness. Annual blood tests can check for specific deficiencies. A varied diet of whole foods generally meets needs."
+  },
+  {
+    "question": "What foods are good for reducing hot flashes?",
+    "answer": "Foods that may help hot flashes include soy foods containing phytoestrogens like tofu, tempeh, and edamame, flaxseeds, black cohosh tea, and cooling foods. Reduce triggers like alcohol, caffeine, spicy foods, and hot beverages. Keep a diary to identify personal triggers."
+  },
+  {
+    "question": "How can I reduce food waste while eating healthy?",
+    "answer": "Reduce food waste by planning meals before shopping, storing food correctly to maximize freshness, using vegetables about to expire in soups and stir fries, freezing bread and ripe bananas, using vegetable scraps for stock, composting what you cannot use, and buying smaller quantities more frequently."
+  },
+  {
+    "question": "What is the best post workout nutrition for muscle building?",
+    "answer": "For muscle building post workout, consume 20-40g of protein within 2 hours combined with carbohydrates to replenish glycogen. Examples include a protein shake with banana, Greek yogurt with granola, eggs with rice, or chocolate milk. Pre-workout nutrition is equally important."
+  },
+  {
+    "question": "How does diet affect fertility in men?",
+    "answer": "Male fertility is supported by antioxidants from colorful produce that protect sperm from oxidative damage, zinc from meat and seeds for testosterone and sperm production, omega-3 for sperm quality, folate, vitamin D, and avoiding excessive alcohol, processed meats, and trans fats."
+  },
+  {
+    "question": "What are the best foods for a strong immune system in winter?",
+    "answer": "For winter immunity, prioritize vitamin C from citrus fruits and bell peppers, vitamin D from fatty fish and supplements, zinc from meat and seeds, probiotics from fermented foods, elderberry, garlic and ginger, protein for antibody production, and adequate overall nutrition."
+  },
+  {
+    "question": "How can I make vegetables taste better?",
+    "answer": "Make vegetables taste better by roasting at high heat for caramelization, adding healthy fats like olive oil or cheese, using bold seasonings and spices, adding acid like lemon juice or vinegar, balancing with sweet elements, combining with grains and proteins, and trying different cooking methods."
+  },
+  {
+    "question": "What is the difference between saturated and unsaturated fat?",
+    "answer": "Saturated fats are solid at room temperature from animal products and should be limited as they raise LDL cholesterol. Unsaturated fats are liquid at room temperature from plants and fish. Monounsaturated from olive oil and avocado and polyunsaturated including omega-3 and omega-6 support heart health."
+  },
+  {
+    "question": "How does diet affect chronic disease prevention?",
+    "answer": "Diet is one of the most powerful tools for chronic disease prevention. A diet rich in vegetables, fruits, whole grains, legumes, and healthy fats while limiting processed foods, added sugars, and excess red meat can reduce risk of heart disease, cancer, type 2 diabetes, and obesity by 30-40%."
+  },
+  {
+    "question": "What foods help you sleep better?",
+    "answer": "Sleep promoting foods include tart cherries containing melatonin, kiwi which improved sleep in studies, walnuts for melatonin and serotonin, fatty fish for vitamin D and omega-3, warm milk for tryptophan, chamomile tea for apigenin, and carbohydrates which help tryptophan enter the brain."
+  },
+  {
+    "question": "How can I track macronutrients effectively?",
+    "answer": "Track macros effectively using apps like MyFitnessPal or Cronometer, learning to eyeball portion sizes over time, weighing food on a kitchen scale for accuracy, preparing and logging food before eating, focusing on protein first then adjusting carbs and fat to fill calories, and reassessing monthly."
+  },
+  {
+    "question": "What are the best foods for maintaining muscle mass as you age?",
+    "answer": "For maintaining muscle with age, eat adequate protein of 1.2-1.6g per kg body weight distributed evenly across meals, leucine-rich foods like dairy and meat which stimulate muscle protein synthesis, vitamin D for muscle function, and omega-3 which has anabolic properties in older adults."
+  },
+  {
+    "question": "How does dietary fat affect hormone levels?",
+    "answer": "Dietary fat is the building block for steroid hormones including estrogen, testosterone, and cortisol. Very low fat diets can disrupt hormonal balance. Monounsaturated and polyunsaturated fats support healthy hormone levels while trans fats negatively affect them. Fat intake should not fall below 20% of calories."
+  },
+  {
+    "question": "What is the best approach to weight loss maintenance?",
+    "answer": "Maintain weight loss by continuing healthy behaviors rather than returning to old habits, weighing regularly to catch small regains early, maintaining higher protein intake, exercising consistently especially strength training, planning for challenging situations, maintaining social support, and addressing underlying behaviors."
+  },
+  {
+    "question": "How can I make healthy choices at social events?",
+    "answer": "Make healthy choices at social events by eating before going, surveying all food options before taking anything, focusing on lean proteins and vegetables first, allowing yourself some indulgences mindfully, drinking water between alcoholic drinks, and focusing on socializing rather than food."
+  },
+  {
+    "question": "What are the nutritional differences between white and sweet potatoes?",
+    "answer": "Sweet potatoes provide more beta-carotene, vitamin A, fiber, and slightly fewer calories than white potatoes. White potatoes provide more potassium, are higher on the glycemic index but when cooled form resistant starch. Both are nutritious whole foods and part of a healthy diet."
+  },
+  {
+    "question": "How does diet affect recovery from injury?",
+    "answer": "Diet supports injury recovery through adequate protein for tissue repair aiming for 1.6-2g per kg, vitamin C for collagen synthesis, zinc for healing, omega-3 to reduce inflammation, calcium and vitamin D for bone healing, and adequate total calories to support the energy needs of healing."
+  },
+  {
+    "question": "What is the best nutrition strategy for endurance sports?",
+    "answer": "Endurance nutrition requires high carbohydrate intake of 6-10g per kg for fuel, adequate protein of 1.4-1.7g per kg for recovery, careful hydration and electrolyte replacement, pre-training carbohydrates, during training fuel for events over 90 minutes, and post-training recovery nutrition within 30 minutes."
+  },
+  {
+    "question": "How can I reduce cholesterol naturally through diet?",
+    "answer": "Reduce cholesterol naturally by eating more soluble fiber from oats, beans, and flaxseeds, including fatty fish twice weekly, eating a handful of nuts daily, using olive oil instead of butter, adding plant sterols from fortified foods, reducing saturated fat, eliminating trans fats, and increasing vegetables."
+  },
+  {
+    "question": "What is the healthiest way to eat eggs?",
+    "answer": "Healthiest egg preparations include poaching, boiling, and scrambling with minimal added fat. The whole egg is nutritious. Avoid deep frying or adding excessive butter. Combining eggs with vegetables increases nutrient density. Those with cardiovascular disease may need to monitor egg intake."
+  },
+  {
+    "question": "How does diet affect fertility in women?",
+    "answer": "Female fertility is supported by folate for healthy egg development, iron for reproductive health, antioxidants protecting eggs from damage, omega-3 for hormonal balance, adequate body fat for hormonal production, and avoiding excessive processed foods and trans fats. Maintain healthy weight."
+  },
+  {
+    "question": "What are the best foods to eat when you have a cold?",
+    "answer": "When sick with a cold, eat chicken soup which has anti-inflammatory properties, garlic and onions for immune support, ginger and honey tea for throat soothing, citrus fruits for vitamin C, broth to stay hydrated, and probiotic yogurt. Stay well hydrated and do not force eating if appetite is low."
+  },
+  {
+    "question": "How can I lose weight with hypothyroidism?",
+    "answer": "Weight loss with hypothyroidism requires ensuring optimal thyroid medication levels first. Focus on adequate protein, fiber-rich vegetables, iodine-rich foods, selenium from Brazil nuts, and zinc. Avoid eating soy or cruciferous vegetables with medication. Exercise including strength training helps manage weight."
+  },
+  {
+    "question": "What is the best diet for someone with high triglycerides?",
+    "answer": "For high triglycerides, significantly reduce added sugars and refined carbohydrates, limit alcohol which raises triglycerides dramatically, eat omega-3 rich fatty fish, replace refined carbs with whole grains, lose excess weight, exercise regularly, and limit saturated fats and trans fats."
+  },
+  {
+    "question": "How does the time I eat affect my weight?",
+    "answer": "Meal timing has a modest effect on weight management. Eating more calories earlier in the day aligns better with circadian rhythms. Late night eating tends to lead to overeating. Consistent meal timing supports better metabolic health. Total calories and food quality remain most important."
+  },
+  {
+    "question": "What foods help with muscle recovery?",
+    "answer": "Muscle recovery foods include protein from eggs, chicken, fish, or dairy to repair damaged muscle fibers, carbohydrates to replenish glycogen stores, antioxidants from tart cherries and berries to reduce exercise-induced inflammation, omega-3 fatty acids, and adequate hydration with electrolytes."
+  },
+  {
+    "question": "How can I improve nutrient absorption from food?",
+    "answer": "Improve nutrient absorption by pairing vitamin C with iron-rich plant foods, eating fat-soluble vitamins with healthy fats, cooking tomatoes in olive oil to release lycopene, combining black pepper with turmeric to enhance curcumin absorption, chewing food thoroughly, and maintaining good digestive health."
+  },
+  {
+    "question": "What is the best approach to eating for someone with no time to cook?",
+    "answer": "For minimal cooking time, keep ready-to-eat healthy foods like rotisserie chicken, canned fish, pre-washed salad greens, canned legumes, Greek yogurt, nuts, fruit, and frozen vegetables. Batch cook one or two items weekly. Use healthy convenience options strategically without relying on fast food."
+  },
+  {
+    "question": "How does diet affect the aging process?",
+    "answer": "Diet significantly influences aging rate. Calorie restriction without malnutrition extends lifespan in animal studies. Antioxidants combat oxidative stress, a key driver of aging. Mediterranean-style diets with olive oil, fish, vegetables, and moderate wine are associated with longer healthier lives and reduced biological aging markers."
+  },
+  {
+    "question": "What are the best foods for stabilizing blood sugar?",
+    "answer": "Blood sugar stabilizing foods include legumes with fiber and protein, non-starchy vegetables, whole grains, nuts, seeds, healthy fats from avocado and olive oil, cinnamon, apple cider vinegar, and protein with every meal. Avoid refined carbohydrates and sugary foods eaten alone."
+  },
+  {
+    "question": "How can I make my diet more sustainable for the environment?",
+    "answer": "Eat more sustainably by reducing meat especially beef which has the highest carbon footprint, eating more plant proteins, choosing local and seasonal produce, reducing food waste through better planning and storage, buying less packaged food, and reducing consumption of highly processed foods."
+  },
+  {
+    "question": "What is the healthiest fast food option?",
+    "answer": "Healthiest fast food options include grilled chicken sandwiches without sauce, salads with grilled chicken and dressing on the side, bean burritos, oatmeal or yogurt parfaits for breakfast, items from fresh Mexican or Mediterranean chains, and sushi. Check nutrition information available in most chains."
+  },
+  {
+    "question": "How does diet affect longevity according to research?",
+    "answer": "Research on longevity consistently shows that diets emphasizing whole plant foods, legumes, nuts, olive oil, and moderate fish while limiting processed foods extend healthy lifespan. The Mediterranean diet, Okinawan diet, and Blue Zone eating patterns all share these characteristics."
+  },
+  {
+"question": "What is the best way to stay hydrated during hot weather?",
+"answer": "Drink water regularly throughout the day, even before you feel thirsty. Include hydrating foods like fruits and vegetables, and avoid excessive caffeine or alcohol. Electrolytes may help if you sweat heavily."
+},
+{
+"question": "How much protein do I need to build muscle?",
+"answer": "To build muscle, aim for 1.6–2.2 grams of protein per kilogram of body weight daily. Spread protein intake across meals for better absorption. Combine with strength training for best results."
+},
+{
+"question": "Are carbs bad for weight loss?",
+"answer": "Carbohydrates are not inherently bad; the type and quantity matter. Whole carbs like oats and vegetables support weight loss, while refined carbs can hinder it. Balance carbs with protein and fats."
+},
+{
+"question": "What are the healthiest breakfast options for weight loss?",
+"answer": "High-protein and fiber-rich breakfasts are ideal for weight loss. Examples include eggs with vegetables, Greek yogurt with berries, or oatmeal with nuts. These help keep you full longer."
+},
+{
+"question": "Can I eat snacks and still lose weight?",
+"answer": "Yes, healthy snacks can support weight loss if they fit within your calorie goals. Choose nutrient-dense options like nuts, fruits, or yogurt. Avoid high-sugar and processed snacks."
+},
+{
+"question": "What foods help increase energy levels naturally?",
+"answer": "Foods like bananas, oats, nuts, and eggs provide steady energy. They contain complex carbs, protein, and healthy fats. Staying hydrated also helps maintain energy levels."
+},
+{
+"question": "Is it okay to eat fruit at night?",
+"answer": "Yes, eating fruit at night is fine and does not cause weight gain by itself. Focus on overall daily calorie intake. Choose lighter fruits if you are concerned about digestion before sleep."
+},
+{
+"question": "How can I reduce sugar in my diet?",
+"answer": "Cut back on sugary drinks and processed foods, and read labels carefully. Replace sweets with fruits and reduce added sugar gradually. Cooking at home helps control sugar intake."
+},
+{
+"question": "What is the role of protein in the body?",
+"answer": "Protein supports muscle repair, immune function, and hormone production. It also helps you feel full longer. Include protein in every meal for balanced nutrition."
+},
+{
+"question": "What are simple ways to eat healthier daily?",
+"answer": "Cook more meals at home, eat more vegetables, and reduce processed foods. Stay hydrated and plan your meals ahead. Small consistent changes lead to long-term results."
+},
+{
+"question": "Is drinking water before meals helpful for weight loss?",
+"answer": "Yes, drinking water before meals can help reduce hunger and calorie intake. It may also improve digestion. Aim to drink a glass 20–30 minutes before eating."
+},
+{
+"question": "What are good sources of healthy fats?",
+"answer": "Healthy fats come from foods like avocados, nuts, seeds, olive oil, and fatty fish. They support heart and brain health. Use them in moderation due to high calorie content."
+},
+{
+"question": "Can skipping meals slow metabolism?",
+"answer": "Skipping meals can lead to overeating later and reduced energy levels. Severe calorie restriction may slow metabolism. Regular balanced meals are more effective for long-term health."
+},
+{
+"question": "What foods should I eat to improve digestion?",
+"answer": "Eat fiber-rich foods like fruits, vegetables, and whole grains. Include probiotics like yogurt or kefir. Drink plenty of water to support digestion."
+},
+{
+"question": "Is it necessary to take supplements?",
+"answer": "Supplements are not always necessary if you have a balanced diet. They can help in cases of deficiency. Always consult a healthcare professional before taking them."
+},
+{
+"question": "What is the healthiest way to cook food?",
+"answer": "Steaming, grilling, baking, and sautéing are healthy cooking methods. They preserve nutrients without adding excess fat. Avoid deep frying when possible."
+},
+{
+"question": "How does fiber help with weight loss?",
+"answer": "Fiber increases fullness and slows digestion, helping you eat less. It also supports gut health. Include vegetables, fruits, and whole grains daily."
+},
+{
+"question": "What foods should I eat after exercise?",
+"answer": "After exercise, eat a mix of protein and carbohydrates. Options include chicken with rice or yogurt with fruit. This helps recovery and replenishes energy."
+},
+{
+"question": "Can I drink coffee while dieting?",
+"answer": "Yes, black coffee is low in calories and can support focus and energy. Avoid adding sugar and cream. Moderate intake is key."
+},
+{
+"question": "What is the best way to reduce belly fat?",
+"answer": "Reduce overall body fat through a calorie deficit and regular exercise. Focus on whole foods and limit sugar. Strength training and cardio both help."
+},
+{
+"question": "How can I avoid overeating?",
+"answer": "Eat slowly, control portions, and avoid distractions while eating. Include protein and fiber in meals. Listen to hunger and fullness cues."
+},
+{
+"question": "Are smoothies healthy?",
+"answer": "Smoothies can be healthy if made with whole ingredients like fruits, vegetables, and protein. Avoid added sugars. They should not replace all meals."
+},
+{
+"question": "What foods help improve sleep quality?",
+"answer": "Foods rich in magnesium and tryptophan like almonds, bananas, and milk may help. Avoid caffeine and heavy meals before bed. Consistent eating habits also support sleep."
+},
+{
+"question": "How can I eat less processed food?",
+"answer": "Choose whole foods and cook meals at home. Read ingredient labels and avoid items with long ingredient lists. Gradually replace processed snacks with healthier options."
+},
+{
+"question": "What is the best diet for overall health?",
+"answer": "A balanced diet rich in whole foods is best. Include fruits, vegetables, whole grains, lean protein, and healthy fats. Limit processed foods and sugar."
+},
+{
+"question": "Can I eat carbs at night?",
+"answer": "Yes, carbs at night are fine if they fit your daily calorie needs. Focus on whole carbs like rice or oats. Timing matters less than total intake."
+},
+{
+"question": "What are signs of dehydration?",
+"answer": "Signs include dark urine, fatigue, dry mouth, and headaches. Drink water regularly to prevent dehydration. Increase intake during exercise or heat."
+},
+{
+"question": "What foods help boost immunity?",
+"answer": "Foods rich in vitamins like citrus fruits, leafy greens, and nuts support immunity. Include a variety of colorful foods. Proper sleep and hydration are also important."
+},
+{
+"question": "How can I eat healthy while traveling?",
+"answer": "Choose simple meals like grilled protein and vegetables. Carry healthy snacks like nuts or fruit. Stay hydrated and avoid frequent fast food."
+},
+{
+"question": "Is eating fat bad for weight loss?",
+"answer": "Healthy fats are essential and can support weight loss by increasing satiety. The key is portion control. Avoid trans fats and limit saturated fats."
+},
+{
+"question": "What foods are best for muscle recovery?",
+"answer": "Protein-rich foods like chicken, eggs, and yogurt support muscle repair. Combine with carbs for energy replenishment. Hydration also aids recovery."
+},
+{
+"question": "How can I improve my eating habits?",
+"answer": "Plan meals, eat regularly, and focus on whole foods. Avoid skipping meals and reduce processed food intake. Consistency is key."
+},
+{
+"question": "Are cheat meals okay?",
+"answer": "Occasional cheat meals are fine if balanced within your diet. Avoid turning them into binge eating. Focus on long-term consistency."
+},
+{
+"question": "What foods help reduce inflammation?",
+"answer": "Foods like fatty fish, berries, and leafy greens help reduce inflammation. Avoid processed foods and sugar. A balanced diet supports overall health."
+},
+{
+"question": "How can I eat more protein easily?",
+"answer": "Add protein to every meal, such as eggs for breakfast or chicken for lunch. Snack on yogurt or nuts. Protein shakes can help if needed."
+},
+{
+"question": "Is it better to eat small meals or large meals?",
+"answer": "Both can work depending on personal preference. Total daily calories matter more than meal frequency. Choose what helps you stay consistent."
+},
+{
+"question": "What foods help control blood sugar?",
+"answer": "Foods high in fiber and protein help stabilize blood sugar. Examples include legumes, whole grains, and vegetables. Avoid sugary and refined foods."
+},
+{
+"question": "How can I stay full longer after meals?",
+"answer": "Include protein, fiber, and healthy fats in your meals. Eat slowly and drink water. Balanced meals help reduce hunger between meals."
+},
+{
+"question": "What are the benefits of drinking water?",
+"answer": "Water supports digestion, energy, and overall health. It helps regulate body temperature and remove waste. Staying hydrated improves physical and mental performance."
+},
+{
+"question": "Can diet affect skin health?",
+"answer": "Yes, a healthy diet supports clear and glowing skin. Foods rich in antioxidants and healthy fats are beneficial. Avoid excessive sugar and processed foods."
+},
+  {
+    "question": "Does drinking cold water burn more calories than warm water?",
+    "answer": "Drinking cold water slightly increases calorie burn because the body uses energy to warm it to body temperature. However, the effect is very small and not significant for weight loss. Staying hydrated matters more than water temperature."
+  },
+  {
+    "question": "What are good plant-based protein options for athletes?",
+    "answer": "Athletes can get protein from lentils, chickpeas, tofu, tempeh, quinoa, and edamame. Combining different plant proteins helps ensure a complete amino acid profile. Protein powders like pea or soy can also be useful."
+  },
+  {
+    "question": "How does eating late affect digestion?",
+    "answer": "Eating late, especially heavy meals, can slow digestion and cause discomfort or acid reflux. It may also disrupt sleep quality. Try to finish eating at least 2–3 hours before bedtime."
+  },
+  {
+    "question": "Are low-fat foods always healthier?",
+    "answer": "Low-fat foods are not always healthier because they may contain added sugars or fillers. Healthy fats are essential for hormone production and nutrient absorption. Focus on whole foods rather than just fat content."
+  },
+  {
+    "question": "What foods can help reduce cravings during dieting?",
+    "answer": "Protein-rich foods, fiber, and healthy fats help reduce cravings. Examples include eggs, nuts, vegetables, and Greek yogurt. Staying hydrated and eating regular meals also helps control cravings."
+  },
+  {
+    "question": "How can I increase my daily fiber intake easily?",
+    "answer": "Add fruits, vegetables, whole grains, and legumes to your meals. Start your day with oats or whole grain bread. Increase fiber gradually to avoid digestive discomfort."
+  },
+  {
+    "question": "Is it necessary to eat immediately after a workout?",
+    "answer": "Eating within 1–2 hours after a workout helps with recovery, especially after intense training. A mix of protein and carbs supports muscle repair and glycogen replenishment. Immediate eating is less critical for light workouts."
+  },
+  {
+    "question": "What foods are high in potassium?",
+    "answer": "Potassium-rich foods include bananas, potatoes, spinach, avocados, and beans. It helps regulate blood pressure and muscle function. A balanced diet usually provides enough potassium."
+  },
+  {
+    "question": "How can I reduce calorie intake without feeling hungry?",
+    "answer": "Eat foods high in fiber and protein, such as vegetables, lean meats, and legumes. These keep you full longer. Also, drink water and avoid calorie-dense processed foods."
+  },
+  {
+    "question": "What are the best snacks before bedtime?",
+    "answer": "Light snacks like yogurt, a banana, or a handful of nuts are good options. They are easy to digest and may support sleep. Avoid heavy or sugary foods late at night."
+  },
+  {
+    "question": "Can drinking too much water be harmful?",
+    "answer": "Yes, excessive water intake can lead to a condition called hyponatremia, where sodium levels drop dangerously low. This is rare and usually occurs with extreme intake. Drink according to thirst and activity level."
+  },
+  {
+    "question": "What foods should I eat to support hair health?",
+    "answer": "Protein, iron, and healthy fats are important for hair health. Foods like eggs, spinach, salmon, nuts, and seeds help strengthen hair. A balanced diet supports growth and reduces hair loss."
+  },
+  {
+    "question": "Is brown sugar healthier than white sugar?",
+    "answer": "Brown sugar contains slightly more minerals than white sugar, but the difference is minimal. Both are high in calories and should be consumed in moderation. Reducing overall sugar intake is more important."
+  },
+  {
+    "question": "How does protein help with weight loss?",
+    "answer": "Protein increases satiety, helping you feel full longer and reducing overall calorie intake. It also supports muscle mass, which helps maintain metabolism. Including protein in meals can aid fat loss."
+  },
+  {
+    "question": "What foods should I avoid before exercising?",
+    "answer": "Avoid heavy, greasy, or high-fiber foods right before exercise as they can cause discomfort. Sugary snacks may cause energy crashes. Choose light, easily digestible carbs instead."
+  },
+  {
+    "question": "Can I build muscle without eating meat?",
+    "answer": "Yes, muscle can be built on a vegetarian or vegan diet with proper planning. Focus on high-protein plant foods and adequate calorie intake. Strength training is essential for muscle growth."
+  },
+  {
+    "question": "What are good hydration strategies for athletes?",
+    "answer": "Drink water regularly before, during, and after exercise. For long workouts, include electrolyte drinks. Monitor urine color to assess hydration status."
+  },
+  {
+    "question": "How does alcohol affect muscle growth?",
+    "answer": "Alcohol can impair muscle recovery and protein synthesis. It also disrupts sleep and hydration. Limiting alcohol supports better training results."
+  },
+  {
+    "question": "What are the best foods for breakfast for athletes?",
+    "answer": "Athletes benefit from a mix of carbs and protein in the morning. Examples include oatmeal with fruit, eggs with toast, or smoothies. These provide energy and support performance."
+  },
+  {
+    "question": "Is it okay to eat the same meals every day?",
+    "answer": "Eating the same meals can simplify dieting but may lead to nutrient gaps. Variety ensures a wider range of vitamins and minerals. Rotate foods regularly for balanced nutrition."
+  },
+  {
+    "question": "What are signs of too little protein intake?",
+    "answer": "Signs include muscle loss, fatigue, slow recovery, and increased hunger. Hair thinning and weak immunity may also occur. Ensure adequate protein in your diet."
+  },
+  {
+    "question": "How can I make healthier food choices at restaurants?",
+    "answer": "Choose grilled or baked dishes instead of fried. Request sauces on the side and opt for vegetables or salads. Portion control is also important."
+  },
+  {
+    "question": "What is the importance of meal timing for athletes?",
+    "answer": "Meal timing helps optimize energy levels and recovery. Eating before workouts provides fuel, while post-workout meals support muscle repair. Consistent timing improves performance."
+  },
+  {
+    "question": "Are energy drinks good for workouts?",
+    "answer": "Energy drinks may boost alertness due to caffeine but often contain high sugar. They can cause crashes and dehydration. Water or coffee is usually a better option."
+  },
+  {
+    "question": "How can I increase calorie intake for weight gain?",
+    "answer": "Eat more calorie-dense foods like nuts, avocados, and whole grains. Increase portion sizes and meal frequency. Smoothies are an easy way to add calories."
+  },
+  {
+    "question": "What foods help reduce fatigue?",
+    "answer": "Foods rich in iron, B vitamins, and complex carbs help fight fatigue. Examples include leafy greens, whole grains, and lean meats. Staying hydrated also helps energy levels."
+  },
+  {
+    "question": "Is it better to eat carbs before or after a workout?",
+    "answer": "Carbs before workouts provide energy, while after workouts they replenish glycogen. Both are important depending on timing and intensity. Balanced intake supports performance and recovery."
+  },
+  {
+    "question": "What foods are high in zinc?",
+    "answer": "Zinc-rich foods include meat, shellfish, seeds, nuts, and whole grains. Zinc supports immunity and wound healing. A balanced diet usually meets daily needs."
+  },
+  {
+    "question": "How can I control portion sizes at home?",
+    "answer": "Use smaller plates, measure servings, and avoid eating directly from packages. Eat slowly and pay attention to fullness cues. Planning meals also helps control portions."
+  },
+  {
+    "question": "What are good sources of vitamin C?",
+    "answer": "Vitamin C is found in citrus fruits, strawberries, bell peppers, and broccoli. It supports immunity and skin health. Eating fresh fruits and vegetables ensures adequate intake."
+  },
+  {
+    "question": "Can eating too much fruit slow down weight loss?",
+    "answer": "Eating fruit in moderation is healthy, but excessive intake can add extra calories and sugar. Whole fruits contain fiber, which helps control appetite. Balance fruit with protein and fats for better weight management."
+  },
+  {
+    "question": "What are the best foods to eat before a morning workout?",
+    "answer": "Light, easy-to-digest carbs like a banana or toast are ideal before a morning workout. Adding a small amount of protein can help sustain energy. Avoid heavy or fatty foods that may cause discomfort."
+  },
+  {
+    "question": "How does dehydration affect physical performance?",
+    "answer": "Dehydration reduces endurance, strength, and focus. It can also increase fatigue and risk of injury. Drinking enough fluids before and during exercise is essential."
+  },
+  {
+    "question": "Is it healthy to eat eggs every morning?",
+    "answer": "For most people, eggs are a nutritious breakfast choice rich in protein and vitamins. They can support muscle maintenance and satiety. Balance them with vegetables and whole grains."
+  },
+  {
+    "question": "What are some low-calorie foods that keep you full?",
+    "answer": "Foods like vegetables, fruits, soups, and lean proteins are low in calories but filling. High fiber and water content help promote fullness. These are useful for weight loss diets."
+  },
+  {
+    "question": "Can drinking smoothies replace meals?",
+    "answer": "Smoothies can replace meals if they contain protein, healthy fats, and fiber. However, many smoothies lack enough nutrients. It's important to make them balanced and not rely on them exclusively."
+  },
+  {
+    "question": "What foods help improve workout endurance?",
+    "answer": "Complex carbohydrates like oats, brown rice, and sweet potatoes support endurance. They provide steady energy for longer workouts. Hydration and electrolytes also play a key role."
+  },
+  {
+    "question": "Is it okay to eat carbohydrates at every meal?",
+    "answer": "Yes, carbohydrates are an important energy source. Choosing complex carbs like whole grains and vegetables is key. Balance them with protein and fats for stable energy levels."
+  },
+  {
+    "question": "What are the healthiest sources of carbohydrates?",
+    "answer": "Healthy carbs include whole grains, legumes, fruits, and vegetables. They provide fiber, vitamins, and sustained energy. Avoid refined carbs like white bread and sugary snacks."
+  },
+  {
+    "question": "How can I reduce bloating through diet?",
+    "answer": "Avoid foods that trigger bloating, such as carbonated drinks or excessive salt. Eat slowly and increase fiber gradually. Drinking enough water also helps digestion."
+  },
+  {
+    "question": "What are the best foods for muscle growth after workouts?",
+    "answer": "Protein-rich foods like chicken, fish, eggs, and legumes help muscle repair. Pair them with carbs like rice or potatoes. This combination supports recovery and growth."
+  },
+  {
+    "question": "Is fasting beneficial for fat loss?",
+    "answer": "Intermittent fasting can help reduce calorie intake and support fat loss. However, results depend on total calories and food quality. It may not suit everyone."
+  },
+  {
+    "question": "What foods are high in vitamin D?",
+    "answer": "Vitamin D is found in fatty fish, fortified dairy, egg yolks, and sunlight exposure. It supports bone health and immunity. Many people may need supplements if levels are low."
+  },
+  {
+    "question": "How can I reduce sodium intake in my diet?",
+    "answer": "Limit processed foods and avoid adding extra salt. Use herbs and spices for flavor instead. Choose low-sodium versions of packaged foods."
+  },
+  {
+    "question": "What are the benefits of eating whole foods?",
+    "answer": "Whole foods are less processed and retain more nutrients. They support better digestion, energy levels, and overall health. They also help control calorie intake."
+  },
+  {
+    "question": "Can I lose weight without exercising?",
+    "answer": "Yes, weight loss can occur through a calorie deficit alone. However, exercise helps preserve muscle and improve health. Combining both is more effective."
+  },
+  {
+    "question": "What are the best protein sources for vegetarians?",
+    "answer": "Vegetarians can get protein from lentils, beans, tofu, dairy, eggs, and nuts. Combining foods like rice and beans improves protein quality. Variety is important."
+  },
+  {
+    "question": "How does sugar impact energy levels?",
+    "answer": "Sugar can cause quick spikes in energy followed by crashes. This can lead to fatigue and cravings. Balanced meals help maintain stable energy."
+  },
+  {
+    "question": "What foods should I eat to improve bone strength?",
+    "answer": "Calcium-rich foods like dairy, leafy greens, and fortified products support bones. Vitamin D helps absorption. Weight-bearing exercise also strengthens bones."
+  },
+  {
+    "question": "Is it healthy to eat late-night snacks?",
+    "answer": "Late-night snacks are fine if they fit your calorie needs. Choose light, nutritious options. Avoid large or heavy meals before sleep."
+  },
+  {
+    "question": "What are the best foods to reduce hunger between meals?",
+    "answer": "Protein and fiber-rich foods like nuts, yogurt, and fruits help control hunger. They digest slowly and keep you full longer. Drinking water also helps."
+  },
+  {
+    "question": "How can I increase my metabolism naturally?",
+    "answer": "Strength training, eating enough protein, and staying active can boost metabolism. Proper sleep and hydration also play roles. Avoid extreme dieting."
+  },
+  {
+    "question": "What foods support heart health?",
+    "answer": "Foods like fatty fish, nuts, whole grains, and vegetables support heart health. They reduce inflammation and improve cholesterol levels. Limit processed and fried foods."
+  },
+  {
+    "question": "What is the role of fats in the diet?",
+    "answer": "Fats provide energy, support hormone production, and help absorb vitamins. Healthy fats like those from nuts and fish are beneficial. Avoid trans fats."
+  },
+  {
+    "question": "Can I eat dairy if I am trying to lose weight?",
+    "answer": "Yes, dairy can be part of a weight loss diet. Choose low-fat or moderate portions. Dairy provides protein and calcium."
+  },
+  {
+    "question": "What foods should I eat to stay hydrated besides water?",
+    "answer": "Fruits and vegetables like watermelon, cucumber, and oranges are hydrating. Soups and herbal teas also contribute to fluid intake. These support hydration alongside water."
+  },
+  {
+    "question": "How can I balance macros in my diet?",
+    "answer": "Include a mix of carbs, protein, and fats in each meal. Adjust portions based on your goals. Tracking intake can help find the right balance."
+  },
+  {
+    "question": "What are signs of overeating?",
+    "answer": "Signs include feeling overly full, discomfort, and sluggishness. Frequent overeating may lead to weight gain. Eating slowly can help prevent it."
+  },
+  {
+    "question": "Is it better to eat before or after cardio?",
+    "answer": "Eating before cardio provides energy, especially for longer sessions. After cardio, nutrients help recovery. Timing depends on your schedule and comfort."
+  },
+  {
+    "question": "What are the best foods for healthy skin?",
+    "answer": "Foods rich in antioxidants and healthy fats support skin health. Examples include berries, nuts, and fish. Hydration also plays a key role."
+  },
+  {
+    "question": "How does caffeine affect hydration?",
+    "answer": "Caffeine has a mild diuretic effect but does not cause dehydration in moderate amounts. It can still contribute to fluid intake. Excess intake may affect sleep."
+  },
+  {
+    "question": "How does eating too quickly affect weight gain?",
+    "answer": "Eating too quickly can lead to overeating because your brain doesn’t have enough time to register fullness. This often results in consuming more calories than needed. Slowing down can help improve portion control."
+  },
+  {
+    "question": "What foods are best for maintaining stable energy throughout the day?",
+    "answer": "Foods with complex carbohydrates, protein, and healthy fats provide steady energy. Examples include whole grains, nuts, eggs, and legumes. Avoid sugary foods that cause energy crashes."
+  },
+  {
+    "question": "Is it beneficial to eat protein before bed?",
+    "answer": "Yes, consuming protein before bed can support muscle repair and growth overnight. Slow-digesting proteins like casein are especially helpful. Keep portions moderate to avoid discomfort."
+  },
+  {
+    "question": "What are the risks of eating too little fat?",
+    "answer": "Too little fat can affect hormone production, brain function, and nutrient absorption. Fat-soluble vitamins like A, D, E, and K require fat for absorption. Include healthy fats in your diet daily."
+  },
+  {
+    "question": "How can I avoid losing muscle while dieting?",
+    "answer": "Maintain a high protein intake and include strength training in your routine. Avoid extreme calorie deficits. This helps preserve muscle while losing fat."
+  },
+  {
+    "question": "What are good pre-workout meals for strength training?",
+    "answer": "Meals with carbs and protein like rice with chicken or oatmeal with yogurt work well. Eat 1–3 hours before training. This provides energy and supports performance."
+  },
+  {
+    "question": "Can eating spicy food help with weight loss?",
+    "answer": "Spicy foods may slightly increase metabolism and reduce appetite. However, the effect is small and not a primary weight loss strategy. A balanced diet is more important."
+  },
+  {
+    "question": "What foods are high in vitamin B12?",
+    "answer": "Vitamin B12 is found in animal products like meat, fish, eggs, and dairy. Fortified plant foods can also provide it. Vegans often need supplementation."
+  },
+  {
+    "question": "How can I increase my appetite for weight gain?",
+    "answer": "Eat smaller meals more frequently and choose calorie-dense foods. Add healthy fats like nuts and oils to meals. Smoothies can also help increase intake."
+  },
+  {
+    "question": "What are the best foods for post-run recovery?",
+    "answer": "After running, eat carbs and protein to restore energy and repair muscles. Options include a smoothie with fruit and protein or a sandwich with lean meat. Hydration is also essential."
+  },
+  {
+    "question": "Is it okay to eat carbohydrates on a rest day?",
+    "answer": "Yes, carbohydrates are still needed on rest days for recovery and energy. You may adjust intake based on activity level. Focus on whole, nutrient-dense carbs."
+  },
+  {
+    "question": "What foods support healthy vision?",
+    "answer": "Foods rich in vitamin A, lutein, and omega-3s support eye health. Examples include carrots, spinach, and fatty fish. A varied diet helps maintain vision."
+  },
+  {
+    "question": "How can I reduce late-night snacking?",
+    "answer": "Eat balanced meals during the day to prevent hunger at night. Establish a routine and avoid keeping tempting snacks nearby. Drinking water or herbal tea can also help."
+  },
+  {
+    "question": "What are the benefits of eating seasonal foods?",
+    "answer": "Seasonal foods are often fresher, more nutritious, and more affordable. They may also taste better. Eating seasonally supports variety in your diet."
+  },
+  {
+    "question": "How does protein timing affect muscle growth?",
+    "answer": "Distributing protein intake evenly across meals supports muscle protein synthesis. Consuming protein after workouts aids recovery. Total daily intake remains the most important factor."
+  },
+  {
+    "question": "What are common mistakes when trying to lose weight?",
+    "answer": "Common mistakes include skipping meals, extreme dieting, and ignoring portion sizes. Relying on processed “diet” foods can also be misleading. Consistency and balance are key."
+  },
+  {
+    "question": "What foods are naturally rich in antioxidants?",
+    "answer": "Berries, dark chocolate, nuts, and leafy greens are high in antioxidants. These compounds help reduce oxidative stress. A colorful diet usually provides plenty of antioxidants."
+  },
+  {
+    "question": "Can drinking water help reduce appetite?",
+    "answer": "Yes, drinking water before meals can help you feel fuller and eat less. Sometimes thirst is mistaken for hunger. Staying hydrated supports appetite control."
+  },
+  {
+    "question": "What foods are best for building lean muscle?",
+    "answer": "Lean proteins like chicken, fish, eggs, and legumes are ideal. Combine them with whole carbs and healthy fats. Consistent training is also necessary."
+  },
+  {
+    "question": "How does fiber intake affect gut health?",
+    "answer": "Fiber feeds beneficial gut bacteria and supports regular digestion. It helps prevent constipation and improves overall gut function. Aim for a variety of fiber sources."
+  },
+  {
+    "question": "Is it necessary to avoid all fats for heart health?",
+    "answer": "No, healthy fats like those from nuts, fish, and olive oil support heart health. Trans fats and excessive saturated fats should be limited. Balance is important."
+  },
+  {
+    "question": "What foods should I eat to recover from intense workouts?",
+    "answer": "Eat protein for muscle repair and carbs for energy restoration. Examples include chicken with rice or a protein shake with fruit. Fluids help replace lost electrolytes."
+  },
+  {
+    "question": "How can I improve my eating habits without strict dieting?",
+    "answer": "Focus on adding healthy foods rather than restricting everything. Eat mindfully and listen to hunger cues. Small, consistent changes are more sustainable."
+  },
+  {
+    "question": "What foods are high in healthy carbohydrates?",
+    "answer": "Healthy carbs include oats, quinoa, brown rice, fruits, and vegetables. They provide energy and essential nutrients. Avoid refined carbohydrates when possible."
+  },
+  {
+    "question": "How does meal frequency affect metabolism?",
+    "answer": "Meal frequency has little impact on metabolism for most people. Total calorie intake matters more. Choose a meal pattern that suits your lifestyle."
+  },
+  {
+    "question": "What are the best foods for hydration during exercise?",
+    "answer": "Water is usually sufficient for most workouts. For longer sessions, sports drinks or coconut water can help replace electrolytes. Fruits like watermelon also help hydrate."
+  },
+  {
+    "question": "Can eating more protein reduce body fat?",
+    "answer": "Higher protein intake can support fat loss by increasing satiety and preserving muscle. It may also slightly boost metabolism. Combine with a calorie deficit for best results."
+  },
+  {
+    "question": "What foods should I limit for better digestion?",
+    "answer": "Limit highly processed foods, excessive fat, and added sugars. Carbonated drinks and large meals may also cause discomfort. Focus on whole, fiber-rich foods."
+  },
+  {
+    "question": "How can I make my meals more balanced?",
+    "answer": "Include a source of protein, carbs, and fats in each meal. Add vegetables for fiber and nutrients. Balanced meals support energy and satiety."
+  },
+  {
+    "question": "What are the benefits of eating nuts regularly?",
+    "answer": "Nuts provide healthy fats, protein, and fiber. They support heart health and may help with weight management. Portion control is important due to their calorie density."
+  }
+
+
+
+
+]
